@@ -264,6 +264,12 @@
             "liquid": "<ul style=\"list-style: none; padding: 0; margin: 0;\">\n  <li style=\"display: flex; align-items: center; margin-bottom: 4px;\">\n    <span style=\"color: #800020; font-size: 16px; margin-right: 4px;\">✿</span>\n    <span style=\"color: #000; font-weight: 600;\">Collagène de haute qualité : Améliore l’élasticité</span>\n  </li>\n  <li style=\"display: flex; align-items: center; margin-bottom: 4px;\">\n    <span style=\"color: #800020; font-size: 16px; margin-right: 6px;\">❀</span>\n    <span style=\"color: #000; font-weight: 600;\">Hydratation intensive & Régénération active </span>\n  </li>\n  <li style=\"display: flex; align-items: center; margin-bottom: 4px;\">\n   \n  </li>\n  <li style=\"display: flex; align-items: center; margin-bottom: 4px;\">\n    <span style=\"color: #800020; font-size: 16px; margin-right: 6px;\">♡</span>\n    <span style=\"color: #000; font-weight: 600;\">Adapté à tous les types de peaux</span>\n  </li>\n</ul>"
           }
         },
+        "tepo_product_options_app_block_HgVir7": {
+          "type": "shopify://apps/tepo-product-options/blocks/app-block/906ef57c-14e4-45d8-8b53-3ba7349d56a6",
+          "settings": {
+            "product": "{{section.settings.product}}"
+          }
+        },
         "buy_buttons_MPFAWa": {
           "type": "buy_buttons",
           "settings": {
@@ -286,6 +292,7 @@
         "text_k9Jyjw",
         "liquid_RzGDnY",
         "liquid_VPNrr6",
+        "tepo_product_options_app_block_HgVir7",
         "buy_buttons_MPFAWa",
         "liquid_ynnBFk"
       ],
