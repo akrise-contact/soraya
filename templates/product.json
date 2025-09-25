@@ -9,6 +9,82 @@
  */
 {
   "sections": {
+    "image_with_text_overlay_cnJjh8": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Design_sans_titre_65ba46a5-98b3-430f-b5a0-b45452e0ea23.png",
+        "mobile_image": "shopify://shop_images/Design_sans_titre_65ba46a5-98b3-430f-b5a0-b45452e0ea23.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "logo_list_YUNwB8": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_aznVc6": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/logo-ELLE-500x281.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_VHWBgM": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Marie-Claire-Logo-500x281.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_9KQaHF": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Vogue-Logo-PNG.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_UBkayV": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Vogue-Logo-PNG.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_aznVc6",
+        "logo_VHWBgM",
+        "logo_9KQaHF",
+        "logo_UBkayV"
+      ],
+      "name": "Logo list",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "title": "Vu sur",
+        "content": "",
+        "text_alignment": "center",
+        "items_per_row": 5,
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "#f9f6f6",
+        "logo_item_border": ""
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -45,14 +121,6 @@
         "separator": {
           "type": "separator",
           "settings": {}
-        },
-        "description": {
-          "type": "description",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "collapse_content": false
-          }
         },
         "variant_picker": {
           "type": "variant_picker",
@@ -95,7 +163,6 @@
         "rating",
         "payment_terms",
         "separator",
-        "description",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
@@ -118,32 +185,11 @@
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
       }
-    },
-    "related-products": {
-      "type": "related-products",
-      "settings": {
-        "recommendations_count": 6,
-        "products": [],
-        "full_width": true,
-        "stack_products": true,
-        "show_progress_bar": false,
-        "products_per_row_mobile": "1",
-        "products_per_row_desktop": 3,
-        "subheading": "",
-        "title": "You may also like",
-        "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
-      }
     }
   },
   "order": [
-    "main",
-    "related-products"
+    "image_with_text_overlay_cnJjh8",
+    "logo_list_YUNwB8",
+    "main"
   ]
 }
