@@ -68,7 +68,7 @@
         "mega_menu_i7emFm"
       ],
       "settings": {
-        "enable_sticky": true,
+        "enable_sticky": false,
         "hide_on_scroll": true,
         "logo": "shopify://shop_images/SORAYA_1000_x_250_px.png",
         "logo_max_width": 120,

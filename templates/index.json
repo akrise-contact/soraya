@@ -235,9 +235,9 @@
         "stack_on_mobile": false,
         "gap": "medium",
         "text_alignment": "start",
-        "subheading": "About",
-        "title": "Featured content",
-        "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
+        "subheading": "Eux l'ont fait",
+        "title": "Pourquoi pas vous?",
+        "content": "",
         "background": "#800020",
         "background_gradient": "",
         "text_color": "#ffffff"
@@ -325,69 +325,17 @@
         "overlay_opacity": 0
       }
     },
-    "testimonials_PqkTbD": {
-      "type": "testimonials",
-      "blocks": {
-        "testimonial_NP8eFt": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 4,
-            "author": "John S.",
-            "title": "Testimonial 1",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
-          }
-        },
-        "testimonial_iiXTpL": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Mary U.",
-            "title": "Testimonial 2",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
-          }
-        },
-        "testimonial_fie8TR": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 4,
-            "author": "Joshua A.",
-            "title": "Testimonial 3",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "testimonial_NP8eFt",
-        "testimonial_iiXTpL",
-        "testimonial_fie8TR"
-      ],
-      "name": "Testimonials",
-      "settings": {
-        "full_width": true,
-        "stack_testimonials": false,
-        "subheading": "",
-        "title": "Testimonials",
-        "content": "",
-        "link_url": "",
-        "link_text": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "testimonial_card_background": "",
-        "testimonial_card_text_color": ""
-      }
-    },
     "tabs_prafJL": {
       "type": "tabs",
       "blocks": {
+        "tab_HAbLFE": {
+          "type": "tab",
+          "settings": {
+            "title": "Détails",
+            "content": "<p><span style=\"text-decoration:underline\"><strong>Tous nos coffrets comprennent également un sac cadeau</strong></span><strong>, parfait pour offrir et créer un moment inoubliable.</strong></p><p>Notre Coffret Ours Éternel avec collier personnalisé caché est un cadeau qui dure toute une vie. Doté d'une véritable rose préservée qui durera toujours, ce cadeau est le symbole parfait de l'amour éternel.</p><p>Faites pivoter la rose pour révéler un collier fait main et personnalisé avec les gravures de votre choix.</p><p><strong>Détails :</strong><br/></p><ul><li>Acier inoxydable 316L certifié - résistant à l'eau et ne noircissant pas<br/></li><li>Fabriqué avec le plus grand soin</li></ul><p><strong>Gravure :</strong></p><ul><li>Jusqu'à 15 caractères sur chaque cœur</li></ul><p><strong>Qualité :</strong></p><ul><li>Hypoallergénique : Nos bijoux sont garantis sans nickel, sans cadmium et sans sel de plomb.</li><li>Résistant à l'eau et non noircissant</li><li>Garantie de 2 ans</li></ul><p><strong>Dimensions :</strong></p><ul><li>Longueur du collier : 44cm+5cm</li></ul>",
+            "page": ""
+          }
+        },
         "tab_kRtMa8": {
           "type": "tab",
           "settings": {
@@ -403,27 +351,19 @@
             "content": "<p>Toutes les commandes sont emballées, préparées et expédiées dans un délai de<strong> 1 à 3 jours ouvrables</strong>.</p><p>Nous offrons un service d'expédition rapide dans le monde entier et le délai de livraison habituel est de <strong>6 à 12 jours</strong>. En fonction de votre lieu de résidence, vous pouvez recevoir les articles plus tard ou plus tôt.</p><p>Toutes les commandes sont accompagnées d'un numéro de suivi, ce qui vous permet de contrôler votre envoi à chaque étape.</p>",
             "page": ""
           }
-        },
-        "tab_HAbLFE": {
-          "type": "tab",
-          "settings": {
-            "title": "Détails",
-            "content": "<p><span style=\"text-decoration:underline\"><strong>Tous nos coffrets comprennent également un sac cadeau</strong></span><strong>, parfait pour offrir et créer un moment inoubliable.</strong></p><p>Notre Coffret Ours Éternel avec collier personnalisé caché est un cadeau qui dure toute une vie. Doté d'une véritable rose préservée qui durera toujours, ce cadeau est le symbole parfait de l'amour éternel.</p><p>Faites pivoter la rose pour révéler un collier fait main et personnalisé avec les gravures de votre choix.</p><p><strong>Détails :</strong><br/></p><ul><li>Acier inoxydable 316L certifié - résistant à l'eau et ne noircissant pas<br/></li><li>Fabriqué avec le plus grand soin</li></ul><p><strong>Gravure :</strong></p><ul><li>Jusqu'à 15 caractères sur chaque cœur</li></ul><p><strong>Qualité :</strong></p><ul><li>Hypoallergénique : Nos bijoux sont garantis sans nickel, sans cadmium et sans sel de plomb.</li><li>Résistant à l'eau et non noircissant</li><li>Garantie de 2 ans</li></ul><p><strong>Dimensions :</strong></p><ul><li>Longueur du collier : 44cm+5cm</li></ul>",
-            "page": ""
-          }
         }
       },
       "block_order": [
+        "tab_HAbLFE",
         "tab_kRtMa8",
-        "tab_wYctaT",
-        "tab_HAbLFE"
+        "tab_wYctaT"
       ],
       "name": "Tabs",
       "settings": {
         "full_width": true,
         "content_size": "medium",
-        "subheading": "Subheading",
-        "title": "Heading",
+        "subheading": "",
+        "title": "",
         "text_alignment": "center",
         "first_tab_open": false,
         "background": "",
@@ -498,39 +438,47 @@
         "item_NcBB7D": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "Que contient ma commande ?",
+            "content": "<ul><li>Un ours rose éternelle</li><li>Votre collier que vous avez personnalisé</li><li>Un sac Cadeau</li><li>Un carton protecteur</li></ul>"
           }
         },
         "item_RmVi4r": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "Le collier résiste t-il à l'eau ?",
+            "content": "<p>Oui bien sûr ! Nos bijoux sont en acier inoxydable, vous pouvez aller dans l'eau sans soucis !</p>"
           }
         },
         "item_J4Yy3H": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Comment faire si le bijou est arrivé endommagé ?",
+            "content": "<p>Si le bijou a été endommagé au cours de la livraison, nous vous renvoyons le même à nos frais !</p>"
+          }
+        },
+        "item_AiM8rp": {
+          "type": "item",
+          "settings": {
+            "title": "Si jamais je n'aime pas comment faire ?",
+            "content": "<p>Vous n'aimez pas ? Envoyez-nous un message et nous vous remboursons sans poser de questions !</p>"
           }
         }
       },
       "block_order": [
         "item_NcBB7D",
         "item_RmVi4r",
-        "item_J4Yy3H"
+        "item_J4Yy3H",
+        "item_AiM8rp"
       ],
       "name": "FAQ",
       "settings": {
         "full_width": true,
         "subheading": "",
-        "title": "FAQ",
-        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "title": "Vos questions",
+        "content": "",
         "team_avatar_width": 160,
-        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
-        "answer_time": "Average answer time: 24h",
+        "support_hours": "",
+        "answer_time": "",
         "button_text": "",
         "button_url": "",
         "text_position": "center",
@@ -554,7 +502,6 @@
     "multi_column_xHtDcH",
     "featured_product_HUr4rw",
     "image_with_text_overlay_GJ3Ldq",
-    "testimonials_PqkTbD",
     "tabs_prafJL",
     "multi_column_gmhrnC",
     "faq_AL7URC"
