@@ -38,7 +38,14 @@
     "cart_icon": "shopping_basket",
     "checkout_accent_color": "#f0c417",
     "checkout_button_color": "#1a1a1a",
-    "content_for_index": []
+    "content_for_index": [],
+    "blocks": {
+      "8170924994765517213": {
+        "type": "shopify://apps/tepo-product-options/blocks/app-embed/906ef57c-14e4-45d8-8b53-3ba7349d56a6",
+        "disabled": false,
+        "settings": {}
+      }
+    }
   },
   "presets": {
     "Sound": {
