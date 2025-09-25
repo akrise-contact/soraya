@@ -116,7 +116,7 @@
         "heading_TH6bCc": {
           "type": "heading",
           "settings": {
-            "text": "Pourquoi offrir",
+            "text": "Offrez l'inoubliable",
             "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
@@ -150,7 +150,7 @@
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 0
       }
     },
     "multi_column_xHtDcH": {
