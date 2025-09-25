@@ -101,12 +101,12 @@
         "content": "",
         "text_alignment": "center",
         "items_per_row": 5,
-        "background": "",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
         "heading_gradient": "",
-        "logo_item_background": "",
+        "logo_item_background": "#f9f6f6",
         "logo_item_border": ""
       }
     },
@@ -238,9 +238,9 @@
         "subheading": "Eux l'ont fait",
         "title": "Pourquoi pas vous?",
         "content": "",
-        "background": "#800020",
+        "background": "#ffffff",
         "background_gradient": "",
-        "text_color": "#ffffff"
+        "text_color": "#800020"
       }
     },
     "featured_product_HUr4rw": {
@@ -261,13 +261,13 @@
         "liquid_VPNrr6": {
           "type": "liquid",
           "settings": {
-            "liquid": "<ul style=\"list-style: none; padding: 0; margin: 0;\">\n  <li style=\"display: flex; align-items: center; margin-bottom: 4px;\">\n    <span style=\"color: #E98F99; font-size: 16px; margin-right: 4px;\">✿</span>\n    <span style=\"color: #000; font-weight: 600;\">Collagène de haute qualité : Améliore l’élasticité</span>\n  </li>\n  <li style=\"display: flex; align-items: center; margin-bottom: 4px;\">\n    <span style=\"color: #E98F99; font-size: 16px; margin-right: 6px;\">❀</span>\n    <span style=\"color: #000; font-weight: 600;\">Hydratation intensive & Régénération active </span>\n  </li>\n  <li style=\"display: flex; align-items: center; margin-bottom: 4px;\">\n   \n  </li>\n  <li style=\"display: flex; align-items: center; margin-bottom: 4px;\">\n    <span style=\"color: #E98F99; font-size: 16px; margin-right: 6px;\">♡</span>\n    <span style=\"color: #000; font-weight: 600;\">Adapté à tous les types de peaux</span>\n  </li>\n</ul>"
+            "liquid": "<ul style=\"list-style: none; padding: 0; margin: 0;\">\n  <li style=\"display: flex; align-items: center; margin-bottom: 4px;\">\n    <span style=\"color: #800020; font-size: 16px; margin-right: 4px;\">✿</span>\n    <span style=\"color: #000; font-weight: 600;\">Collagène de haute qualité : Améliore l’élasticité</span>\n  </li>\n  <li style=\"display: flex; align-items: center; margin-bottom: 4px;\">\n    <span style=\"color: #800020; font-size: 16px; margin-right: 6px;\">❀</span>\n    <span style=\"color: #000; font-weight: 600;\">Hydratation intensive & Régénération active </span>\n  </li>\n  <li style=\"display: flex; align-items: center; margin-bottom: 4px;\">\n   \n  </li>\n  <li style=\"display: flex; align-items: center; margin-bottom: 4px;\">\n    <span style=\"color: #800020; font-size: 16px; margin-right: 6px;\">♡</span>\n    <span style=\"color: #000; font-weight: 600;\">Adapté à tous les types de peaux</span>\n  </li>\n</ul>"
           }
         },
         "buy_buttons_MPFAWa": {
           "type": "buy_buttons",
           "settings": {
-            "show_payment_button": true,
+            "show_payment_button": false,
             "show_gift_card_recipient": true,
             "atc_button_background": "",
             "atc_button_text_color": "",
@@ -424,12 +424,12 @@
         "stack_on_mobile": false,
         "gap": "medium",
         "text_alignment": "start",
-        "subheading": "About",
-        "title": "Featured content",
-        "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
-        "background": "",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "#800020",
         "background_gradient": "",
-        "text_color": ""
+        "text_color": "#ffffff"
       }
     },
     "faq_AL7URC": {
@@ -482,14 +482,14 @@
         "button_text": "",
         "button_url": "",
         "text_position": "center",
-        "background": "",
+        "background": "#ffffff",
         "background_gradient": "",
-        "text_color": "",
+        "text_color": "#000000",
         "heading_color": "",
         "heading_gradient": "",
         "button_background": "",
-        "button_text_color": "",
-        "accordion_background": "",
+        "button_text_color": "#ffffff",
+        "accordion_background": "#dfdbdc",
         "accordion_text_color": ""
       }
     }
