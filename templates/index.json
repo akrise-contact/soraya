@@ -57,6 +57,7 @@
         "logo_JFGw7y": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/logo-ELLE-500x281.png",
             "logo_width": 120,
             "link": ""
           }
@@ -64,6 +65,7 @@
         "logo_EFJTNa": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Marie-Claire-Logo-500x281.png",
             "logo_width": 120,
             "link": ""
           }
@@ -71,6 +73,7 @@
         "logo_fBGXfm": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Vogue-Logo-PNG.png",
             "logo_width": 120,
             "link": ""
           }
@@ -78,6 +81,7 @@
         "logo_yQeWQT": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Vogue-Logo-PNG.png",
             "logo_width": 120,
             "link": ""
           }
@@ -109,32 +113,18 @@
     "rich_text_hLVQRB": {
       "type": "rich-text",
       "blocks": {
-        "subheading_nFU3tH": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
         "heading_TH6bCc": {
           "type": "heading",
           "settings": {
-            "text": "Heading",
-            "heading_tag": "h1",
+            "text": "Pourquoi offrir",
+            "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
-          }
-        },
-        "richtext_TMpUz7": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
           }
         }
       },
       "block_order": [
-        "subheading_nFU3tH",
-        "heading_TH6bCc",
-        "richtext_TMpUz7"
+        "heading_TH6bCc"
       ],
       "name": "Rich text",
       "settings": {
@@ -148,38 +138,14 @@
     },
     "image_with_text_overlay_VC4i4M": {
       "type": "image-with-text-overlay",
-      "blocks": {
-        "subheading_PhkWbh": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
-        "heading_jiQWPf": {
-          "type": "heading",
-          "settings": {
-            "text": "Image with text overlay",
-            "heading_tag": "h1"
-          }
-        },
-        "richtext_hAAQX8": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_PhkWbh",
-        "heading_jiQWPf",
-        "richtext_hAAQX8"
-      ],
       "name": "Image with text overlay",
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/geger.png",
+        "mobile_image": "shopify://shop_images/geger.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
