@@ -261,6 +261,14 @@
           "settings": {
             "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Payment Options</title>\n    <style>\n        body.unique-body-Pay123 {\n            font-family: Arial, sans-serif;\n            display: flex;\n            justify-content: center;\n            align-items: center;\n            height: 100vh;\n            margin: 0;\n            background-color: #f9f9f9;\n        }\n        .unique-payment-container-Xyz456 {\n            text-align: center;\n        }\n        .unique-payment-options-Abc789 {\n            display: flex;\n            justify-content: center;\n            gap: 10px;\n        }\n        .unique-payment-options-Abc789 img {\n            width: 50px;\n            height: auto;\n        }\n    </style>\n</head>\n<body class=\"unique-body-Pay123\">\n    <div class=\"unique-payment-container-Xyz456\">\n        <div class=\"unique-payment-options-Abc789\">\n            <img src=\"https://www.svgrepo.com/show/14823/amex.svg\" alt=\"AMEX\">\n            <img src=\"https://www.svgrepo.com/show/508402/apple-pay.svg\" alt=\"Apple Pay\">\n            <img src=\"https://www.svgrepo.com/show/508703/mastercard.svg\" alt=\"MasterCard\">\n            <img src=\"https://www.svgrepo.com/show/508716/paypal.svg\" alt=\"PayPal\">\n            <img src=\"https://www.svgrepo.com/show/508690/google-pay.svg\" alt=\"Google Pay\">\n            <img src=\"https://www.svgrepo.com/show/508730/visa-classic.svg\" alt=\"VISA\">\n        </div>\n    </div>\n</body>\n</html>"
           }
+        },
+        "image_aqbxPV": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/LIVRAISON_GRATUITE_1.png",
+            "alignment": "center",
+            "max_width": 500
+          }
         }
       },
       "block_order": [
@@ -269,7 +277,8 @@
         "liquid_rkxh4k",
         "tepo_product_options_product_app_block_wTB6mC",
         "buy_buttons_LgztLR",
-        "liquid_FPMx4r"
+        "liquid_FPMx4r",
+        "image_aqbxPV"
       ],
       "settings": {
         "full_width": true,
@@ -288,6 +297,54 @@
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
       }
+    },
+    "tabs_H4b7TG": {
+      "type": "tabs",
+      "blocks": {
+        "tab_LC9TV3": {
+          "type": "tab",
+          "settings": {
+            "title": "Détails",
+            "content": "<p><span style=\"text-decoration:underline\"><strong>Tous nos coffrets comprennent également un sac cadeau</strong></span><strong>, parfait pour offrir et créer un moment inoubliable.</strong></p><p>Notre Coffret Ours Éternel avec collier personnalisé caché est un cadeau qui dure toute une vie. Doté d'une véritable rose préservée qui durera toujours, ce cadeau est le symbole parfait de l'amour éternel.</p><p>Faites pivoter la rose pour révéler un collier fait main et personnalisé avec les gravures de votre choix.</p><p><strong>Détails :</strong><br/></p><ul><li>Acier inoxydable 316L certifié - résistant à l'eau et ne noircissant pas<br/></li><li>Fabriqué avec le plus grand soin</li></ul><p><strong>Gravure :</strong></p><ul><li>Jusqu'à 15 caractères sur chaque cœur</li></ul><p><strong>Qualité :</strong></p><ul><li>Hypoallergénique : Nos bijoux sont garantis sans nickel, sans cadmium et sans sel de plomb.</li><li>Résistant à l'eau et non noircissant</li><li>Garantie de 2 ans</li></ul><p><strong>Dimensions :</strong></p><ul><li>Longueur du collier : 44cm+5cm</li></ul>",
+            "page": ""
+          }
+        },
+        "tab_H9m3pQ": {
+          "type": "tab",
+          "settings": {
+            "title": "Idées de gravure",
+            "content": "<p><strong>Initiales du couple (A+B, A ♡ B)</strong><br/><br/>Gravez votre amour sur chaque cœur avec des initiales significatives : A + B ou A ♡ B, une déclaration simplifiée mais puissante.<br/><br/><strong>Noms (Julie / David)</strong><br/><br/>Une gravure précise pour une déclaration d'amour qui résiste à l'épreuve du temps.<br/><br/><strong>Date spéciale (01/05/2014)</strong><br/><br/>La date mémorable de votre choix est gravée avec soin, transformant chaque cœur en une capsule temporelle de vos souvenirs les plus précieux.<br/><br/><strong>Chiffres romains (V.XVI.MMXX)</strong><br/><br/>Sublimez votre histoire avec la sophistication des chiffres romains : V.XVI.MMXX, en apportant une touche classique à vos bijoux personnalisés.<br/><br/><strong>Citations romantiques :</strong><br/><br/>- Pour toujours / et à jamais<br/>- You & Me / Forever<br/>- Je vous aime / Pour toujours<br/><br/>Chaque citation, une promesse gravée, capture l'éternité de vos sentiments. Choisissez celles qui résonnent le plus avec votre histoire.<br/><br/><strong>Symboles (♥❤♡✿❀✽★✯☆☘☾∞)</strong><br/><br/>Exprimez l'inexprimable avec des symboles : cœur, étoile, fleur ou infini, ajoutant une couche d'émotion à votre bijou.<br/>⚠️ Veuillez choisir parmi les symboles énumérés ci-dessus afin d'éviter les erreurs de synchronisation avec nos outils de gravure.</p><p>⚠️ Plus le texte que vous souhaitez graver est long, plus il peut être difficile de maintenir une bonne visibilité de la gravure. En optant pour une gravure concise, vous vous assurez que chaque lettre reste claire et lisible sur votre bijou.</p>",
+            "page": ""
+          }
+        },
+        "tab_UWQXjN": {
+          "type": "tab",
+          "settings": {
+            "title": "Informations sur l'expédition",
+            "content": "<p>Toutes les commandes sont emballées, préparées et expédiées dans un délai de<strong> 1 à 3 jours ouvrables</strong>.</p><p>Nous offrons un service d'expédition rapide dans le monde entier et le délai de livraison habituel est de <strong>6 à 12 jours</strong>. En fonction de votre lieu de résidence, vous pouvez recevoir les articles plus tard ou plus tôt.</p><p>Toutes les commandes sont accompagnées d'un numéro de suivi, ce qui vous permet de contrôler votre envoi à chaque étape.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_LC9TV3",
+        "tab_H9m3pQ",
+        "tab_UWQXjN"
+      ],
+      "name": "Tabs",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "subheading": "",
+        "title": "",
+        "text_alignment": "center",
+        "first_tab_open": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
     }
   },
   "order": [
@@ -296,6 +353,7 @@
     "rich_text_wrkQAe",
     "image_with_text_overlay_GnJJHF",
     "multi_column_GCxQPU",
-    "main"
+    "main",
+    "tabs_H4b7TG"
   ]
 }
