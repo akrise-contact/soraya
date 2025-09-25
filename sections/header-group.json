@@ -87,7 +87,7 @@
         "transparent_header_text_color": "#1a1a1a",
         "reduce_padding": false,
         "background_opacity": 0,
-        "background_blur_radius": 20
+        "background_blur_radius": 0
       }
     }
   },
