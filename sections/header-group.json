@@ -17,13 +17,21 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
+            "text": "Livraison gratuite",
+            "url": ""
+          }
+        },
+        "message_ht8WyQ": {
+          "type": "message",
+          "settings": {
+            "text": "French days -33%",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message"
+        "message",
+        "message_ht8WyQ"
       ],
       "settings": {
         "enable_sticky": false,
