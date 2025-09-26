@@ -91,9 +91,76 @@
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
       }
+    },
+    "image_with_text_overlay_YWn967": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/LIVRAISON_GRATUITE_1.png",
+        "mobile_image": "shopify://shop_images/LIVRAISON_GRATUITE_1.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "tabs_exFE47": {
+      "type": "tabs",
+      "blocks": {
+        "tab_RWVKND": {
+          "type": "tab",
+          "settings": {
+            "title": "Détails",
+            "content": "<p><span style=\"text-decoration:underline\"><strong>Tous nos coffrets comprennent également un sac cadeau</strong></span><strong>, parfait pour offrir et créer un moment inoubliable.</strong></p><p>Notre Coffret Ours Éternel avec collier personnalisé caché est un cadeau qui dure toute une vie. Doté d'une véritable rose préservée qui durera toujours, ce cadeau est le symbole parfait de l'amour éternel.</p><p>Faites pivoter la rose pour révéler un collier fait main et personnalisé avec les gravures de votre choix.</p><p><strong>Détails :</strong><br/></p><ul><li>Acier inoxydable 316L certifié - résistant à l'eau et ne noircissant pas<br/></li><li>Fabriqué avec le plus grand soin</li></ul><p><strong>Gravure :</strong></p><ul><li>Jusqu'à 15 caractères sur chaque cœur</li></ul><p><strong>Qualité :</strong></p><ul><li>Hypoallergénique : Nos bijoux sont garantis sans nickel, sans cadmium et sans sel de plomb.</li><li>Résistant à l'eau et non noircissant</li><li>Garantie de 2 ans</li></ul><p><strong>Dimensions :</strong></p><ul><li>Longueur du collier : 44cm+5cm</li></ul>",
+            "page": ""
+          }
+        },
+        "tab_B8WVFr": {
+          "type": "tab",
+          "settings": {
+            "title": "Idées de gravure",
+            "content": "<p><strong>Initiales du couple (A+B, A ♡ B)</strong><br/><br/>Gravez votre amour sur chaque cœur avec des initiales significatives : A + B ou A ♡ B, une déclaration simplifiée mais puissante.<br/><br/><strong>Noms (Julie / David)</strong><br/><br/>Une gravure précise pour une déclaration d'amour qui résiste à l'épreuve du temps.<br/><br/><strong>Date spéciale (01/05/2014)</strong><br/><br/>La date mémorable de votre choix est gravée avec soin, transformant chaque cœur en une capsule temporelle de vos souvenirs les plus précieux.<br/><br/><strong>Chiffres romains (V.XVI.MMXX)</strong><br/><br/>Sublimez votre histoire avec la sophistication des chiffres romains : V.XVI.MMXX, en apportant une touche classique à vos bijoux personnalisés.<br/><br/><strong>Citations romantiques :</strong><br/><br/>- Pour toujours / et à jamais<br/>- You & Me / Forever<br/>- Je vous aime / Pour toujours<br/><br/>Chaque citation, une promesse gravée, capture l'éternité de vos sentiments. Choisissez celles qui résonnent le plus avec votre histoire.<br/><br/><strong>Symboles (♥❤♡✿❀✽★✯☆☘☾∞)</strong><br/><br/>Exprimez l'inexprimable avec des symboles : cœur, étoile, fleur ou infini, ajoutant une couche d'émotion à votre bijou.<br/>⚠️ Veuillez choisir parmi les symboles énumérés ci-dessus afin d'éviter les erreurs de synchronisation avec nos outils de gravure.</p><p>⚠️ Plus le texte que vous souhaitez graver est long, plus il peut être difficile de maintenir une bonne visibilité de la gravure. En optant pour une gravure concise, vous vous assurez que chaque lettre reste claire et lisible sur votre bijou.</p>",
+            "page": ""
+          }
+        },
+        "tab_e6czLe": {
+          "type": "tab",
+          "settings": {
+            "title": "Informations sur l'expédition",
+            "content": "<p>Toutes les commandes sont emballées, préparées et expédiées dans un délai de<strong> 1 à 3 jours ouvrables</strong>.</p><p>Nous offrons un service d'expédition rapide dans le monde entier et le délai de livraison habituel est de <strong>6 à 12 jours</strong>. En fonction de votre lieu de résidence, vous pouvez recevoir les articles plus tard ou plus tôt.</p><p>Toutes les commandes sont accompagnées d'un numéro de suivi, ce qui vous permet de contrôler votre envoi à chaque étape.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_RWVKND",
+        "tab_B8WVFr",
+        "tab_e6czLe"
+      ],
+      "name": "Tabs",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "subheading": "",
+        "title": "",
+        "text_alignment": "center",
+        "first_tab_open": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "image_with_text_overlay_YWn967",
+    "tabs_exFE47"
   ]
 }
