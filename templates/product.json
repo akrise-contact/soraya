@@ -239,6 +239,17 @@
             "liquid": "<ul style=\"list-style: none; padding: 0; margin: 0;\">\n  <li style=\"display: flex; align-items: center; margin-bottom: 4px;\">\n    <span style=\"color: #800020; font-size: 16px; margin-right: 4px;\">✿</span>\n    <span style=\"color: #000; font-weight: 600;\">Une vraie rose qui dure éternellement</span>\n  </li>\n  <li style=\"display: flex; align-items: center; margin-bottom: 4px;\">\n    <span style=\"color: #800020; font-size: 16px; margin-right: 6px;\">❀</span>\n    <span style=\"color: #000; font-weight: 600;\">Un bijou personnalisé unique</span>\n  </li>\n  <li style=\"display: flex; align-items: center; margin-bottom: 4px;\">\n   \n  </li>\n  <li style=\"display: flex; align-items: center; margin-bottom: 4px;\">\n    <span style=\"color: #800020; font-size: 16px; margin-right: 6px;\">♡</span>\n    <span style=\"color: #000; font-weight: 600;\">Une surprise garantie</span>\n  </li>\n</ul>"
           }
         },
+        "variant_picker_XkHPwh": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_style": "block",
+            "swatch_selector_style": "swatch",
+            "variant_image_options": "",
+            "size_chart_page": ""
+          }
+        },
         "tepo_product_options_product_app_block_wTB6mC": {
           "type": "shopify://apps/tepo-product-options/blocks/product-app-block/906ef57c-14e4-45d8-8b53-3ba7349d56a6",
           "settings": {
@@ -275,6 +286,7 @@
         "text_gf99Ta",
         "liquid_8RiYfh",
         "liquid_rkxh4k",
+        "variant_picker_XkHPwh",
         "tepo_product_options_product_app_block_wTB6mC",
         "buy_buttons_LgztLR",
         "liquid_FPMx4r",
