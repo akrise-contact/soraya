@@ -11,6 +11,67 @@
   "type": "footer",
   "name": "Footer group",
   "sections": {
+    "faq_PhzQnY": {
+      "type": "faq",
+      "blocks": {
+        "item_KAUPGH": {
+          "type": "item",
+          "settings": {
+            "title": "Que contient ma commande ?",
+            "content": "<ul><li>Un ours rose éternelle</li><li>Votre collier que vous avez personnalisé</li><li>Un sac Cadeau</li><li>Un carton protecteur</li></ul>"
+          }
+        },
+        "item_YbVpAt": {
+          "type": "item",
+          "settings": {
+            "title": "Le collier résiste t-il à l'eau ?",
+            "content": "<p>Oui bien sûr ! Nos bijoux sont en acier inoxydable, vous pouvez aller dans l'eau sans soucis !</p>"
+          }
+        },
+        "item_dGzdjP": {
+          "type": "item",
+          "settings": {
+            "title": "Comment faire si le bijou est arrivé endommagé ?",
+            "content": "<p>Si le bijou a été endommagé au cours de la livraison, nous vous renvoyons le même à nos frais !</p>"
+          }
+        },
+        "item_NNba9a": {
+          "type": "item",
+          "settings": {
+            "title": "Si jamais je n'aime pas comment faire ?",
+            "content": "<p>Vous n'aimez pas ? Envoyez-nous un message et nous vous remboursons sans poser de questions !</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_KAUPGH",
+        "item_YbVpAt",
+        "item_dGzdjP",
+        "item_NNba9a"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Vos questions",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "#000000",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "#ffffff",
+        "accordion_background": "#dfdbdc",
+        "accordion_text_color": ""
+      }
+    },
     "text-with-icons": {
       "type": "text-with-icons",
       "blocks": {
@@ -98,6 +159,7 @@
     }
   },
   "order": [
+    "faq_PhzQnY",
     "text-with-icons",
     "footer"
   ]
