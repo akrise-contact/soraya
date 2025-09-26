@@ -35,10 +35,19 @@
           "settings": {
             "hide_sold_out_variants": true,
             "stack_blocks": true,
-            "selector_style": "dropdown",
+            "selector_style": "block",
             "swatch_selector_style": "swatch",
             "variant_image_options": "",
             "size_chart_page": ""
+          }
+        },
+        "product_variations_KF3YrY": {
+          "type": "product_variations",
+          "settings": {
+            "option_name": "",
+            "option_value_metafield": "",
+            "products": [],
+            "selector_style": "swatch"
           }
         },
         "tepo_product_options_product_app_block_naD7bz": {
@@ -70,6 +79,7 @@
         "liquid_qyqt3q",
         "liquid_pKVN8L",
         "variant_picker_U8hNBN",
+        "product_variations_KF3YrY",
         "tepo_product_options_product_app_block_naD7bz",
         "buy_buttons",
         "liquid_LdtFgM"
