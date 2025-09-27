@@ -183,11 +183,116 @@
         "heading_color": "",
         "heading_gradient": ""
       }
+    },
+    "multi_column_EjQq4Y": {
+      "type": "multi-column",
+      "blocks": {
+        "item_thehe9": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/IMG_1915.MOV",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_z7zymT": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/IMG_1916.MOV",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_reQXDf": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/0926.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_wm6rwq": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/0926(1).mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_wLtKrr": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/0927.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_Ezi6CL": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/0927(1).mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_thehe9",
+        "item_z7zymT",
+        "item_reQXDf",
+        "item_wm6rwq",
+        "item_wLtKrr",
+        "item_Ezi6CL"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Elles l'adorent ✨",
+        "content": "",
+        "background": "#800020",
+        "background_gradient": "",
+        "text_color": "#ffffff"
+      }
     }
   },
   "order": [
     "main",
     "image_with_text_overlay_YWn967",
-    "tabs_exFE47"
+    "tabs_exFE47",
+    "multi_column_EjQq4Y"
   ]
 }
