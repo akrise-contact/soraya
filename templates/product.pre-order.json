@@ -24,6 +24,12 @@
             "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Trustpilot Rating</title>\n    <style>\n        .container-trustpilot {\n            background-color: #e9f8fe;\n            border: 1px dashed #006400; /* Koyu yeşil border */\n            padding: 5px 5px;\n            display: flex;\n            align-items: center;\n            justify-content: center;\n            border-radius: 10px;\n        }\n        .container-trustpilot img {\n            margin: 0 10px;\n        }\n        .container-trustpilot .stars {\n            max-width: 80px; /* Increased size for the star image */\n        }\n        .container-trustpilot .logo {\n            max-width: 70px;\n        }\n        .container-trustpilot span {\n            margin: 0 5px;\n        }\n        .excellent {\n            color: #000;\n            font-size: 12px;\n        }\n        .rating-text {\n            color: #000;\n            font-size: 10px;\n        }\n    </style>\n</head>\n<body>\n    <div class=\"container-trustpilot\">\n        <span class=\"excellent\"><b>\"EXCELLENT\"</b></span>\n        <img class=\"stars\" src=\"https://cdn.shopify.com/s/files/1/0647/2148/6072/files/4.5-stars-trustpilot_2157d8d9-101e-46a2-a3fe-ac80f2fecf10.png?v=1688082792\" alt=\"4.7/5 Rating\">\n        <span class=\"rating-text\">noté 4.8/5 sur</span>\n        <img class=\"logo\" src=\"https://cdn.shopify.com/s/files/1/0647/2148/6072/files/Trustpilot_Logo__2022_.svg_2.png?v=1687091440\" alt=\"Trustpilot Logo\">\n    </div>\n</body>\n</html>"
           }
         },
+        "liquid_8TUgET": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ""
+          }
+        },
         "liquid_pKVN8L": {
           "type": "liquid",
           "settings": {
@@ -101,6 +107,7 @@
       "block_order": [
         "title",
         "liquid_qyqt3q",
+        "liquid_8TUgET",
         "liquid_pKVN8L",
         "variant_picker_U8hNBN",
         "product_variations_KF3YrY",
@@ -182,6 +189,48 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": ""
+      }
+    },
+    "rich_text_T6whBC": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_QD7Mzj": {
+          "type": "heading",
+          "settings": {
+            "text": "Offrez l'inoubliable",
+            "heading_tag": "h2",
+            "text_color": "#800020",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_QD7Mzj"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_6rr8DL": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/geger.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
       }
     },
     "multi_column_EjQq4Y": {
@@ -288,48 +337,6 @@
         "text_color": "#ffffff"
       }
     },
-    "rich_text_T6whBC": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_QD7Mzj": {
-          "type": "heading",
-          "settings": {
-            "text": "Offrez l'inoubliable",
-            "heading_tag": "h2",
-            "text_color": "#800020",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_QD7Mzj"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "image_with_text_overlay_6rr8DL": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/geger.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
     "multi_column_R3NYni": {
       "type": "multi-column",
       "blocks": {
@@ -419,6 +426,63 @@
         "background_gradient": "",
         "text_color": "#800020"
       }
+    },
+    "multiple_images_with_text_JmidDm": {
+      "type": "multiple-images-with-text",
+      "blocks": {
+        "item_H9x6JM": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/ezgif-7b56160c6bd54e.gif",
+            "image_rotation_degrees": 0,
+            "subheading": "",
+            "title": "Surprise Sentimentale",
+            "content": "<p>Imaginez offrir un cadeau qui captivera le cœur de votre être cher et restera gravé dans sa mémoire pour toujours.</p><p>L'Ours Rose Éternelle avec Collier à 2 Cœurs est l’expression ultime de <strong>l’amour et de l’affection</strong>.</p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        },
+        "item_QdCwgx": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Light_Pink_and_Red_bear_rose.jpg",
+            "image_rotation_degrees": 1.5,
+            "subheading": "",
+            "title": "Symbole Éternel d'Amour",
+            "content": "<p>Notre rose éternelle restera belle toute votre vie, tout comme l'amour que vous portez à l'être cher. Un cadeau qui traverse le temps et ne perd jamais de sa magie.</p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        },
+        "item_h6izdn": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/3_collier_3_gravures.jpg",
+            "image_rotation_degrees": -2,
+            "subheading": "",
+            "title": "Construit pour durer",
+            "content": "<p>Fabriqué en acier inoxydable 316L, le collier est garanti pour la vie. Hypoallergénique, sans plomb ni nickel - elle pourra le porter chaque jour sans jamais l'enlever</p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_H9x6JM",
+        "item_QdCwgx",
+        "item_h6izdn"
+      ],
+      "name": "Multiple images with text",
+      "settings": {
+        "full_width": true,
+        "images_layout": "stacked",
+        "collage_images_alignment": "middle",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
     }
   },
   "order": [
@@ -428,6 +492,7 @@
     "rich_text_T6whBC",
     "image_with_text_overlay_6rr8DL",
     "multi_column_EjQq4Y",
-    "multi_column_R3NYni"
+    "multi_column_R3NYni",
+    "multiple_images_with_text_JmidDm"
   ]
 }
