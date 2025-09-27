@@ -156,14 +156,6 @@
             "page": ""
           }
         },
-        "tab_B8WVFr": {
-          "type": "tab",
-          "settings": {
-            "title": "Idées de gravure",
-            "content": "<p><strong>Initiales du couple (A+B, A ♡ B)</strong><br/><br/>Gravez votre amour sur chaque cœur avec des initiales significatives : A + B ou A ♡ B, une déclaration simplifiée mais puissante.<br/><br/><strong>Noms (Julie / David)</strong><br/><br/>Une gravure précise pour une déclaration d'amour qui résiste à l'épreuve du temps.<br/><br/><strong>Date spéciale (01/05/2014)</strong><br/><br/>La date mémorable de votre choix est gravée avec soin, transformant chaque cœur en une capsule temporelle de vos souvenirs les plus précieux.<br/><br/><strong>Chiffres romains (V.XVI.MMXX)</strong><br/><br/>Sublimez votre histoire avec la sophistication des chiffres romains : V.XVI.MMXX, en apportant une touche classique à vos bijoux personnalisés.<br/><br/><strong>Citations romantiques :</strong><br/><br/>- Pour toujours / et à jamais<br/>- You & Me / Forever<br/>- Je vous aime / Pour toujours<br/><br/>Chaque citation, une promesse gravée, capture l'éternité de vos sentiments. Choisissez celles qui résonnent le plus avec votre histoire.<br/><br/><strong>Symboles (♥❤♡✿❀✽★✯☆☘☾∞)</strong><br/><br/>Exprimez l'inexprimable avec des symboles : cœur, étoile, fleur ou infini, ajoutant une couche d'émotion à votre bijou.<br/>⚠️ Veuillez choisir parmi les symboles énumérés ci-dessus afin d'éviter les erreurs de synchronisation avec nos outils de gravure.</p><p>⚠️ Plus le texte que vous souhaitez graver est long, plus il peut être difficile de maintenir une bonne visibilité de la gravure. En optant pour une gravure concise, vous vous assurez que chaque lettre reste claire et lisible sur votre bijou.</p>",
-            "page": ""
-          }
-        },
         "tab_e6czLe": {
           "type": "tab",
           "settings": {
@@ -175,7 +167,6 @@
       },
       "block_order": [
         "tab_RWVKND",
-        "tab_B8WVFr",
         "tab_e6czLe"
       ],
       "name": "Tabs",
