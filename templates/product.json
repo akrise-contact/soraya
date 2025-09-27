@@ -533,6 +533,67 @@
         "button_background": "",
         "button_text_color": ""
       }
+    },
+    "faq_wzmqVL": {
+      "type": "faq",
+      "blocks": {
+        "item_8ggLJ6": {
+          "type": "item",
+          "settings": {
+            "title": "Que contient ma commande ?",
+            "content": "<ul><li>Un ours rose éternelle</li><li>Votre collier que vous avez personnalisé</li><li>Un sac Cadeau</li><li>Un carton protecteur</li></ul>"
+          }
+        },
+        "item_E3XFn6": {
+          "type": "item",
+          "settings": {
+            "title": "Le collier résiste t-il à l'eau ?",
+            "content": "<p>Oui bien sûr ! Nos bijoux sont en acier inoxydable, vous pouvez aller dans l'eau sans soucis !</p>"
+          }
+        },
+        "item_6R8nNA": {
+          "type": "item",
+          "settings": {
+            "title": "Comment faire si le bijou est arrivé endommagé ?",
+            "content": "<p>Si le bijou a été endommagé au cours de la livraison, nous vous renvoyons le même à nos frais !</p>"
+          }
+        },
+        "item_XhFDHD": {
+          "type": "item",
+          "settings": {
+            "title": "Si jamais je n'aime pas comment faire ?",
+            "content": "<p>Vous n'aimez pas ? Envoyez-nous un message et nous vous remboursons sans poser de questions !</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_8ggLJ6",
+        "item_E3XFn6",
+        "item_6R8nNA",
+        "item_XhFDHD"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Vos questions",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "#000000",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "#ffffff",
+        "accordion_background": "#dfdbdc",
+        "accordion_text_color": ""
+      }
     }
   },
   "order": [
@@ -544,6 +605,7 @@
     "main",
     "tabs_H4b7TG",
     "multi_column_zT3jpL",
-    "multiple_images_with_text_fbTh6C"
+    "multiple_images_with_text_fbTh6C",
+    "faq_wzmqVL"
   ]
 }
