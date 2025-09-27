@@ -275,6 +275,19 @@
             "link_style": "link"
           }
         },
+        "item_wLtKrr": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/0927.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
         "item_thehe9": {
           "type": "item",
           "settings": {
@@ -300,28 +313,15 @@
             "link_text": "",
             "link_style": "link"
           }
-        },
-        "item_wLtKrr": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/0927.mp4",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
         }
       },
       "block_order": [
         "item_reQXDf",
         "item_Ezi6CL",
         "item_z7zymT",
+        "item_wLtKrr",
         "item_thehe9",
-        "item_wm6rwq",
-        "item_wLtKrr"
+        "item_wm6rwq"
       ],
       "name": "Multi-column",
       "settings": {
@@ -427,6 +427,67 @@
         "text_color": "#800020"
       }
     },
+    "faq_M3RYCd": {
+      "type": "faq",
+      "blocks": {
+        "item_RAJbke": {
+          "type": "item",
+          "settings": {
+            "title": "Que contient ma commande ?",
+            "content": "<ul><li>Un ours rose éternelle</li><li>Votre collier que vous avez personnalisé</li><li>Un sac Cadeau</li><li>Un carton protecteur</li></ul>"
+          }
+        },
+        "item_nyaJ4J": {
+          "type": "item",
+          "settings": {
+            "title": "Le collier résiste t-il à l'eau ?",
+            "content": "<p>Oui bien sûr ! Nos bijoux sont en acier inoxydable, vous pouvez aller dans l'eau sans soucis !</p>"
+          }
+        },
+        "item_Uyrf9H": {
+          "type": "item",
+          "settings": {
+            "title": "Comment faire si le bijou est arrivé endommagé ?",
+            "content": "<p>Si le bijou a été endommagé au cours de la livraison, nous vous renvoyons le même à nos frais !</p>"
+          }
+        },
+        "item_hEyLbi": {
+          "type": "item",
+          "settings": {
+            "title": "Si jamais je n'aime pas comment faire ?",
+            "content": "<p>Vous n'aimez pas ? Envoyez-nous un message et nous vous remboursons sans poser de questions !</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_RAJbke",
+        "item_nyaJ4J",
+        "item_Uyrf9H",
+        "item_hEyLbi"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Vos questions",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "#000000",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "#ffffff",
+        "accordion_background": "#dfdbdc",
+        "accordion_text_color": ""
+      }
+    },
     "multiple_images_with_text_JmidDm": {
       "type": "multiple-images-with-text",
       "blocks": {
@@ -493,6 +554,7 @@
     "image_with_text_overlay_6rr8DL",
     "multi_column_EjQq4Y",
     "multi_column_R3NYni",
-    "multiple_images_with_text_JmidDm"
+    "multiple_images_with_text_JmidDm",
+    "faq_M3RYCd"
   ]
 }
