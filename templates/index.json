@@ -243,83 +243,6 @@
         "text_color": "#800020"
       }
     },
-    "featured_product_HUr4rw": {
-      "type": "featured-product",
-      "blocks": {
-        "text_k9Jyjw": {
-          "type": "text",
-          "settings": {
-            "text": "<h2>Ours Éternel & Collier Personnalisé</h2>"
-          }
-        },
-        "liquid_RzGDnY": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Trustpilot Rating</title>\n    <style>\n        .container-trustpilot {\n            background-color: #e9f8fe;\n            border: 1px dashed #006400; /* Koyu yeşil border */\n            padding: 5px 5px;\n            display: flex;\n            align-items: center;\n            justify-content: center;\n            border-radius: 10px;\n        }\n        .container-trustpilot img {\n            margin: 0 10px;\n        }\n        .container-trustpilot .stars {\n            max-width: 80px; /* Increased size for the star image */\n        }\n        .container-trustpilot .logo {\n            max-width: 70px;\n        }\n        .container-trustpilot span {\n            margin: 0 5px;\n        }\n        .excellent {\n            color: #000;\n            font-size: 12px;\n        }\n        .rating-text {\n            color: #000;\n            font-size: 10px;\n        }\n    </style>\n</head>\n<body>\n    <div class=\"container-trustpilot\">\n        <span class=\"excellent\"><b>\"EXCELLENT\"</b></span>\n        <img class=\"stars\" src=\"https://cdn.shopify.com/s/files/1/0647/2148/6072/files/4.5-stars-trustpilot_2157d8d9-101e-46a2-a3fe-ac80f2fecf10.png?v=1688082792\" alt=\"4.7/5 Rating\">\n        <span class=\"rating-text\">noté 4.8/5 sur</span>\n        <img class=\"logo\" src=\"https://cdn.shopify.com/s/files/1/0647/2148/6072/files/Trustpilot_Logo__2022_.svg_2.png?v=1687091440\" alt=\"Trustpilot Logo\">\n    </div>\n</body>\n</html>"
-          }
-        },
-        "liquid_VPNrr6": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<ul style=\"list-style: none; padding: 0; margin: 0;\">\n  <li style=\"display: flex; align-items: center; margin-bottom: 4px;\">\n    <span style=\"color: #800020; font-size: 16px; margin-right: 4px;\">✿</span>\n    <span style=\"color: #000; font-weight: 600;\">Collagène de haute qualité : Améliore l’élasticité</span>\n  </li>\n  <li style=\"display: flex; align-items: center; margin-bottom: 4px;\">\n    <span style=\"color: #800020; font-size: 16px; margin-right: 6px;\">❀</span>\n    <span style=\"color: #000; font-weight: 600;\">Hydratation intensive & Régénération active </span>\n  </li>\n  <li style=\"display: flex; align-items: center; margin-bottom: 4px;\">\n   \n  </li>\n  <li style=\"display: flex; align-items: center; margin-bottom: 4px;\">\n    <span style=\"color: #800020; font-size: 16px; margin-right: 6px;\">♡</span>\n    <span style=\"color: #000; font-weight: 600;\">Adapté à tous les types de peaux</span>\n  </li>\n</ul>"
-          }
-        },
-        "easify_options_easify_product_options_JRkEjV": {
-          "type": "shopify://apps/easify-options/blocks/easify-product-options/d2288b18-c1ba-42f5-b3b3-26c75c8820bf",
-          "settings": {}
-        },
-        "tepo_product_options_app_block_addGkC": {
-          "type": "shopify://apps/tepo-product-options/blocks/app-block/906ef57c-14e4-45d8-8b53-3ba7349d56a6",
-          "settings": {
-            "product": "{{section.settings.product}}"
-          }
-        },
-        "buy_buttons_MPFAWa": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_payment_button": false,
-            "show_gift_card_recipient": true,
-            "atc_button_background": "",
-            "atc_button_text_color": "",
-            "payment_button_background": "",
-            "payment_button_text_color": ""
-          }
-        },
-        "liquid_ynnBFk": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Payment Options</title>\n    <style>\n        body.unique-body-Pay123 {\n            font-family: Arial, sans-serif;\n            display: flex;\n            justify-content: center;\n            align-items: center;\n            height: 100vh;\n            margin: 0;\n            background-color: #f9f9f9;\n        }\n        .unique-payment-container-Xyz456 {\n            text-align: center;\n        }\n        .unique-payment-options-Abc789 {\n            display: flex;\n            justify-content: center;\n            gap: 10px;\n        }\n        .unique-payment-options-Abc789 img {\n            width: 50px;\n            height: auto;\n        }\n    </style>\n</head>\n<body class=\"unique-body-Pay123\">\n    <div class=\"unique-payment-container-Xyz456\">\n        <div class=\"unique-payment-options-Abc789\">\n            <img src=\"https://www.svgrepo.com/show/14823/amex.svg\" alt=\"AMEX\">\n            <img src=\"https://www.svgrepo.com/show/508402/apple-pay.svg\" alt=\"Apple Pay\">\n            <img src=\"https://www.svgrepo.com/show/508703/mastercard.svg\" alt=\"MasterCard\">\n            <img src=\"https://www.svgrepo.com/show/508716/paypal.svg\" alt=\"PayPal\">\n            <img src=\"https://www.svgrepo.com/show/508690/google-pay.svg\" alt=\"Google Pay\">\n            <img src=\"https://www.svgrepo.com/show/508730/visa-classic.svg\" alt=\"VISA\">\n        </div>\n    </div>\n</body>\n</html>"
-          }
-        }
-      },
-      "block_order": [
-        "text_k9Jyjw",
-        "liquid_RzGDnY",
-        "liquid_VPNrr6",
-        "easify_options_easify_product_options_JRkEjV",
-        "tepo_product_options_app_block_addGkC",
-        "buy_buttons_MPFAWa",
-        "liquid_ynnBFk"
-      ],
-      "name": "Featured product",
-      "settings": {
-        "full_width": true,
-        "product": "eternal-rose-bear-personalized-necklace",
-        "desktop_media_width": 55,
-        "desktop_media_layout": "carousel_thumbnails_left",
-        "mobile_media_size": "expanded",
-        "mobile_carousel_control": "thumbnails",
-        "enable_video_autoplay": false,
-        "enable_video_looping": false,
-        "enable_image_zoom": true,
-        "max_image_zoom_level": 3,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "input_background": "rgba(0,0,0,0)",
-        "input_text_color": ""
-      }
-    },
     "image_with_text_overlay_GJ3Ldq": {
       "type": "image-with-text-overlay",
       "name": "Image with text overlay",
@@ -384,65 +307,6 @@
         "heading_color": "",
         "heading_gradient": ""
       }
-    },
-    "multi_column_gmhrnC": {
-      "type": "multi-column",
-      "blocks": {
-        "item_MjWbEt": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_XKaiph": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_qgAkBf": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_MjWbEt",
-        "item_XKaiph",
-        "item_qgAkBf"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "start",
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "background": "#800020",
-        "background_gradient": "",
-        "text_color": "#ffffff"
-      }
     }
   },
   "order": [
@@ -451,9 +315,7 @@
     "rich_text_hLVQRB",
     "image_with_text_overlay_VC4i4M",
     "multi_column_xHtDcH",
-    "featured_product_HUr4rw",
     "image_with_text_overlay_GJ3Ldq",
-    "tabs_prafJL",
-    "multi_column_gmhrnC"
+    "tabs_prafJL"
   ]
 }
