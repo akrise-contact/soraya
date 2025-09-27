@@ -50,19 +50,13 @@
             "selector_style": "swatch"
           }
         },
-        "tepo_product_options_product_app_block_naD7bz": {
-          "type": "shopify://apps/tepo-product-options/blocks/product-app-block/906ef57c-14e4-45d8-8b53-3ba7349d56a6",
-          "settings": {
-            "product": "{{product}}"
-          }
-        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
-            "show_payment_button": true,
+            "show_payment_button": false,
             "show_gift_card_recipient": true,
-            "atc_button_background": "",
-            "atc_button_text_color": "",
+            "atc_button_background": "#800020",
+            "atc_button_text_color": "#ffffff",
             "payment_button_background": "",
             "payment_button_text_color": ""
           }
@@ -80,7 +74,6 @@
         "liquid_pKVN8L",
         "variant_picker_U8hNBN",
         "product_variations_KF3YrY",
-        "tepo_product_options_product_app_block_naD7bz",
         "buy_buttons",
         "liquid_LdtFgM"
       ],
