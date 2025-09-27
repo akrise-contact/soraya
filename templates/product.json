@@ -263,7 +263,7 @@
         "line_item_property_3EQCLQ": {
           "type": "line_item_property",
           "settings": {
-            "label": "écriture",
+            "label": "Gravure sur le cœur droit",
             "type": "text",
             "required": false,
             "allow_long_text": false
@@ -272,7 +272,7 @@
         "line_item_property_HB9FGi": {
           "type": "line_item_property",
           "settings": {
-            "label": "Your label",
+            "label": "Gravure sur le cœur gauche",
             "type": "text",
             "required": false,
             "allow_long_text": false
