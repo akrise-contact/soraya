@@ -255,7 +255,7 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Idées de gravure",
+            "title": "💡Idées de gravure",
             "content": "<p><strong>Initiales du couple (A+B, A ♡ B)</strong><br/>Gravez votre amour sur chaque cœur avec des initiales significatives : A + B ou A ♡ B, une déclaration simplifiée mais puissante.<br/><br/><strong>Noms (Julie / David)</strong><br/>Une gravure précise pour une déclaration d'amour qui résiste à l'épreuve du temps.<br/><br/><strong>Date spéciale (01/05/2014)</strong><br/>La date mémorable de votre choix est gravée avec soin, transformant chaque cœur en une capsule temporelle de vos souvenirs les plus précieux.<br/><br/><strong>Chiffres romains (V.XVI.MMXX)</strong><br/>Sublimez votre histoire avec la sophistication des chiffres romains : V.XVI.MMXX, en apportant une touche classique à vos bijoux personnalisés.<br/><br/><strong>Citations romantiques :</strong><br/>- Pour toujours / et à jamais<br/>- You & Me / Forever<br/>- Je vous aime / Pour toujours<br/><br/>Chaque citation, une promesse gravée, capture l'éternité de vos sentiments. Choisissez celles qui résonnent le plus avec votre histoire.<br/><br/><strong>Symboles (♥❤♡✿❀✽★✯☆☘☾∞)</strong><br/>Exprimez l'inexprimable avec des symboles : cœur, étoile, fleur ou infini, ajoutant une couche d'émotion à votre bijou.<br/>⚠️ Veuillez choisir parmi les symboles énumérés ci-dessus afin d'éviter les erreurs de synchronisation avec nos outils de gravure.</p><p>⚠️ Plus le texte que vous souhaitez graver est long, plus il peut être difficile de maintenir une bonne visibilité de la gravure. En optant pour une gravure concise, vous vous assurez que chaque lettre reste claire et lisible sur votre bijou.</p>",
             "page": ""
           }
@@ -476,6 +476,63 @@
         "background_gradient": "",
         "text_color": "#ffffff"
       }
+    },
+    "multiple_images_with_text_fbTh6C": {
+      "type": "multiple-images-with-text",
+      "blocks": {
+        "item_jQ8jiB": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/ezgif-7b56160c6bd54e.gif",
+            "image_rotation_degrees": -2,
+            "subheading": "",
+            "title": "Une Surprise Sentimentale",
+            "content": "<p>Imaginez sa réaction lorsque qu'elle tournera la manivelle pour révéler le collier personnalisé caché derrière la rose.... ♥</p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        },
+        "item_GjTTXr": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Light_Pink_and_Red_bear_rose.jpg",
+            "image_rotation_degrees": 0,
+            "subheading": "",
+            "title": "Symbole Éternel d'Amour",
+            "content": "<p>Notre rose éternelle restera belle toute votre vie, tout comme l'amour que vous portez à l'être cher. Un cadeau qui traverse le temps et ne perd jamais de sa magie.</p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        },
+        "item_TkjMV3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/3_collier_3_gravures.jpg",
+            "image_rotation_degrees": 1.5,
+            "subheading": "",
+            "title": "Construit pour durer",
+            "content": "<p>Fabriqué en acier inoxydable 316L, le collier est garanti pour la vie.</p><p>Hypoallergénique, sans plomb ni nickel.</p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_jQ8jiB",
+        "item_GjTTXr",
+        "item_TkjMV3"
+      ],
+      "name": "Multiple images with text",
+      "settings": {
+        "full_width": true,
+        "images_layout": "collage",
+        "collage_images_alignment": "middle",
+        "background": "#800020",
+        "background_gradient": "",
+        "text_color": "#ffffff",
+        "button_background": "",
+        "button_text_color": ""
+      }
     }
   },
   "order": [
@@ -486,6 +543,7 @@
     "multi_column_GCxQPU",
     "main",
     "tabs_H4b7TG",
-    "multi_column_ET8TLD"
+    "multi_column_ET8TLD",
+    "multiple_images_with_text_fbTh6C"
   ]
 }
