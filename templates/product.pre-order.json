@@ -187,10 +187,23 @@
     "multi_column_EjQq4Y": {
       "type": "multi-column",
       "blocks": {
-        "item_thehe9": {
+        "item_reQXDf": {
           "type": "item",
           "settings": {
-            "video": "shopify://files/videos/IMG_1915.MOV",
+            "video": "shopify://files/videos/0926.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_Ezi6CL": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/0927(1).mp4",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
@@ -213,10 +226,10 @@
             "link_style": "link"
           }
         },
-        "item_reQXDf": {
+        "item_thehe9": {
           "type": "item",
           "settings": {
-            "video": "shopify://files/videos/0926.mp4",
+            "video": "shopify://files/videos/IMG_1915.MOV",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
@@ -251,28 +264,15 @@
             "link_text": "",
             "link_style": "link"
           }
-        },
-        "item_Ezi6CL": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/0927(1).mp4",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
         }
       },
       "block_order": [
-        "item_thehe9",
-        "item_z7zymT",
         "item_reQXDf",
+        "item_Ezi6CL",
+        "item_z7zymT",
+        "item_thehe9",
         "item_wm6rwq",
-        "item_wLtKrr",
-        "item_Ezi6CL"
+        "item_wLtKrr"
       ],
       "name": "Multi-column",
       "settings": {
