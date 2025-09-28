@@ -112,10 +112,19 @@
             "show_menu_title": true,
             "menu_title": ""
           }
+        },
+        "links_R8VnFB": {
+          "type": "links",
+          "settings": {
+            "menu": "informations",
+            "show_menu_title": true,
+            "menu_title": ""
+          }
         }
       },
       "block_order": [
-        "links"
+        "links",
+        "links_R8VnFB"
       ],
       "settings": {
         "show_social_media": true,
