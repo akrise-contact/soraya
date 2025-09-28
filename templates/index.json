@@ -117,14 +117,15 @@
           "type": "collection",
           "settings": {
             "collection": "",
+            "image": "shopify://shop_images/Light_Pink_and_Red_bear_rose.jpg",
             "subheading": "",
-            "title": "",
+            "title": "Voir",
             "url": "shopify://products/ours-eternel-collier-personnalise",
             "heading_tag": "h2",
             "text_position": "place-self-center text-center",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 0
           }
         }
       },
@@ -139,7 +140,7 @@
         "collections_per_row": 3,
         "show_progress_bar": false,
         "subheading": "",
-        "title": "Collection list",
+        "title": "Ours personnalisé",
         "content": "",
         "link_url": "",
         "link_text": "",
