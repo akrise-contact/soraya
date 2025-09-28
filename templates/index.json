@@ -96,7 +96,7 @@
       "name": "Logo list",
       "settings": {
         "full_width": true,
-        "stack_mobile": true,
+        "stack_mobile": false,
         "title": "Vu sur",
         "content": "",
         "text_alignment": "center",
@@ -109,10 +109,51 @@
         "logo_item_background": "#f9f6f6",
         "logo_item_border": ""
       }
+    },
+    "collection_list_JQC9Nf": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_XjbjXw": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "title": "",
+            "url": "shopify://products/ours-eternel-collier-personnalise",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "collection_XjbjXw"
+      ],
+      "name": "Collection list",
+      "settings": {
+        "full_width": true,
+        "stack_collections": true,
+        "collections_per_row_mobile": "1",
+        "collections_per_row": 3,
+        "show_progress_bar": false,
+        "subheading": "",
+        "title": "Collection list",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
     }
   },
   "order": [
     "slideshow",
-    "logo_list_UyzkHF"
+    "logo_list_UyzkHF",
+    "collection_list_JQC9Nf"
   ]
 }
