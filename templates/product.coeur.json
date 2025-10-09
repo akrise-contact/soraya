@@ -1,0 +1,611 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_with_text_overlay_cnJjh8": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Design_sans_titre_65ba46a5-98b3-430f-b5a0-b45452e0ea23.png",
+        "mobile_image": "shopify://shop_images/Design_sans_titre_65ba46a5-98b3-430f-b5a0-b45452e0ea23.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "logo_list_YUNwB8": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_aznVc6": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/logo-ELLE-500x281.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_VHWBgM": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Marie-Claire-Logo-500x281.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_9KQaHF": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Vogue-Logo-PNG.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_UBkayV": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Vogue-Logo-PNG.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_aznVc6",
+        "logo_VHWBgM",
+        "logo_9KQaHF",
+        "logo_UBkayV"
+      ],
+      "name": "Logo list",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "title": "Vu sur",
+        "content": "",
+        "text_alignment": "center",
+        "items_per_row": 5,
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "#f9f6f6",
+        "logo_item_border": ""
+      }
+    },
+    "rich_text_wrkQAe": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_JiW6rk": {
+          "type": "heading",
+          "settings": {
+            "text": "Offrez l'inoubliable",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_JiW6rk"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_GnJJHF": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/geger.png",
+        "mobile_image": "shopify://shop_images/geger.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "multi_column_GCxQPU": {
+      "type": "multi-column",
+      "blocks": {
+        "item_PdRP6D": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/dfg.png",
+            "column_size": "3",
+            "title": "Sophie M.",
+            "heading_tag": "h4",
+            "content": "<p>J'ai commandé cet ours pour l'anniversaire de ma fille de 19 ans. Quand elle a découvert le collier caché avec ses initiales... elle a fondu en larmes ! La rose est magnifique et le collier de très bonne qualité. Livraison rapide, je recommande à 100%</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_qpGiMG": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/fvzs1IMoz_mid.jpg",
+            "column_size": "3",
+            "title": "Marc L.",
+            "heading_tag": "h4",
+            "content": "<p>Ma copine ne s'y attendait pas du tout ! L'effet de surprise est incroyable, elle a mis 5 minutes à comprendre qu'il fallait tourner la rose 😅 Le collier avec notre date de rencontre gravée est parfait. Cadeau réussi!</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_KJXbCP": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/guz1RtPFjZ_mid.jpg",
+            "column_size": "3",
+            "title": "Emma R.",
+            "heading_tag": "h4",
+            "content": "<p>Cadeau de Saint-Valentin parfait ! La rose est vraiment belle et semble fragile mais elle est bien solide. Mon copain a fait graver 'E♡T Forever' et c'est exactement ce que j'espérais. Je le porte tous les jours.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_EJJR33": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/CUHycauCrF_mid.jpg",
+            "column_size": "3",
+            "title": "Julie D.",
+            "heading_tag": "h4",
+            "content": "<p>Pour les 5 ans avec mon mari, j'ai pris la rose rouge avec le collier or rose. La gravure de notre date de mariage est nette et lisible. L'emballage était soigné. Un souvenir qu'on gardera toute notre vie !\"</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_nrWTMk": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/OTTQViMNB_mid.jpg",
+            "column_size": "3",
+            "title": "Thomas B.",
+            "heading_tag": "h4",
+            "content": "<p>Ma mère a adoré ! Je lui ai offert pour la fête des mères avec 'Maman ♥' gravé. Elle l'a mis sur sa commode et montre le collier à toutes ses amies. Très content de mon achat, merci Soraya memories.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_PdRP6D",
+        "item_qpGiMG",
+        "item_KJXbCP",
+        "item_EJJR33",
+        "item_nrWTMk"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "Ils l'ont offert",
+        "title": "Pourquoi pas vous?",
+        "content": "",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "#800020"
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "text_gf99Ta": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Ours Éternel & Collier Personnalisé</h2>"
+          }
+        },
+        "liquid_8RiYfh": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Trustpilot Rating</title>\n    <style>\n        .container-trustpilot {\n            background-color: #e9f8fe;\n            border: 1px dashed #006400; /* Koyu yeşil border */\n            padding: 5px 5px;\n            display: flex;\n            align-items: center;\n            justify-content: center;\n            border-radius: 10px;\n        }\n        .container-trustpilot img {\n            margin: 0 10px;\n        }\n        .container-trustpilot .stars {\n            max-width: 80px; /* Increased size for the star image */\n        }\n        .container-trustpilot .logo {\n            max-width: 70px;\n        }\n        .container-trustpilot span {\n            margin: 0 5px;\n        }\n        .excellent {\n            color: #000;\n            font-size: 12px;\n        }\n        .rating-text {\n            color: #000;\n            font-size: 10px;\n        }\n    </style>\n</head>\n<body>\n    <div class=\"container-trustpilot\">\n        <span class=\"excellent\"><b>\"EXCELLENT\"</b></span>\n        <img class=\"stars\" src=\"https://cdn.shopify.com/s/files/1/0647/2148/6072/files/4.5-stars-trustpilot_2157d8d9-101e-46a2-a3fe-ac80f2fecf10.png?v=1688082792\" alt=\"4.7/5 Rating\">\n        <span class=\"rating-text\">noté 4.8/5 sur</span>\n        <img class=\"logo\" src=\"https://cdn.shopify.com/s/files/1/0647/2148/6072/files/Trustpilot_Logo__2022_.svg_2.png?v=1687091440\" alt=\"Trustpilot Logo\">\n    </div>\n</body>\n</html>"
+          }
+        },
+        "liquid_rkxh4k": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<ul style=\"list-style: none; padding: 0; margin: 0;\">\n  <li style=\"display: flex; align-items: center; margin-bottom: 4px;\">\n    <span style=\"color: #800020; font-size: 16px; margin-right: 4px;\">✿</span>\n    <span style=\"color: #000; font-weight: 600;\">Une vraie rose qui dure éternellement</span>\n  </li>\n  <li style=\"display: flex; align-items: center; margin-bottom: 4px;\">\n    <span style=\"color: #800020; font-size: 16px; margin-right: 6px;\">❀</span>\n    <span style=\"color: #000; font-weight: 600;\">Un bijou personnalisé unique</span>\n  </li>\n  <li style=\"display: flex; align-items: center; margin-bottom: 4px;\">\n   \n  </li>\n  <li style=\"display: flex; align-items: center; margin-bottom: 4px;\">\n    <span style=\"color: #800020; font-size: 16px; margin-right: 6px;\">♡</span>\n    <span style=\"color: #000; font-weight: 600;\">Une surprise garantie</span>\n  </li>\n</ul>"
+          }
+        },
+        "variant_picker_XkHPwh": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_style": "dropdown",
+            "swatch_selector_style": "swatch",
+            "variant_image_options": "",
+            "size_chart_page": ""
+          }
+        },
+        "collapsible_text_YLy6EQ": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "💡Idées de gravure",
+            "content": "<p><strong>Initiales du couple (A+B, A ♡ B)</strong><br/>Gravez votre amour sur chaque cœur avec des initiales significatives : A + B ou A ♡ B, une déclaration simplifiée mais puissante.<br/><br/><strong>Noms (Julie / David)</strong><br/>Une gravure précise pour une déclaration d'amour qui résiste à l'épreuve du temps.<br/><br/><strong>Date spéciale (01/05/2014)</strong><br/>La date mémorable de votre choix est gravée avec soin, transformant chaque cœur en une capsule temporelle de vos souvenirs les plus précieux.<br/><br/><strong>Chiffres romains (V.XVI.MMXX)</strong><br/>Sublimez votre histoire avec la sophistication des chiffres romains : V.XVI.MMXX, en apportant une touche classique à vos bijoux personnalisés.<br/><br/><strong>Citations romantiques :</strong><br/>- Pour toujours / et à jamais<br/>- You & Me / Forever<br/>- Je vous aime / Pour toujours<br/><br/>Chaque citation, une promesse gravée, capture l'éternité de vos sentiments. Choisissez celles qui résonnent le plus avec votre histoire.<br/><br/><strong>Symboles (♥❤♡✿❀✽★✯☆☘☾∞)</strong><br/>Exprimez l'inexprimable avec des symboles : cœur, étoile, fleur ou infini, ajoutant une couche d'émotion à votre bijou.<br/>⚠️ Veuillez choisir parmi les symboles énumérés ci-dessus afin d'éviter les erreurs de synchronisation avec nos outils de gravure.</p><p>⚠️ Plus le texte que vous souhaitez graver est long, plus il peut être difficile de maintenir une bonne visibilité de la gravure. En optant pour une gravure concise, vous vous assurez que chaque lettre reste claire et lisible sur votre bijou.</p>",
+            "page": ""
+          }
+        },
+        "line_item_property_3EQCLQ": {
+          "type": "line_item_property",
+          "settings": {
+            "label": "Gravure sur le cœur droit",
+            "type": "text",
+            "required": false,
+            "allow_long_text": false
+          }
+        },
+        "line_item_property_HB9FGi": {
+          "type": "line_item_property",
+          "settings": {
+            "label": "Gravure sur le cœur gauche",
+            "type": "text",
+            "required": false,
+            "allow_long_text": false
+          }
+        },
+        "buy_buttons_LgztLR": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "#800020",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "liquid_FPMx4r": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Payment Options</title>\n    <style>\n        body.unique-body-Pay123 {\n            font-family: Arial, sans-serif;\n            display: flex;\n            justify-content: center;\n            align-items: center;\n            height: 100vh;\n            margin: 0;\n            background-color: #f9f9f9;\n        }\n        .unique-payment-container-Xyz456 {\n            text-align: center;\n        }\n        .unique-payment-options-Abc789 {\n            display: flex;\n            justify-content: center;\n            gap: 10px;\n        }\n        .unique-payment-options-Abc789 img {\n            width: 50px;\n            height: auto;\n        }\n    </style>\n</head>\n<body class=\"unique-body-Pay123\">\n    <div class=\"unique-payment-container-Xyz456\">\n        <div class=\"unique-payment-options-Abc789\">\n            <img src=\"https://www.svgrepo.com/show/14823/amex.svg\" alt=\"AMEX\">\n            <img src=\"https://www.svgrepo.com/show/508402/apple-pay.svg\" alt=\"Apple Pay\">\n            <img src=\"https://www.svgrepo.com/show/508703/mastercard.svg\" alt=\"MasterCard\">\n            <img src=\"https://www.svgrepo.com/show/508716/paypal.svg\" alt=\"PayPal\">\n            <img src=\"https://www.svgrepo.com/show/508690/google-pay.svg\" alt=\"Google Pay\">\n            <img src=\"https://www.svgrepo.com/show/508730/visa-classic.svg\" alt=\"VISA\">\n        </div>\n    </div>\n</body>\n</html>"
+          }
+        },
+        "image_aqbxPV": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/LIVRAISON_GRATUITE_1.png",
+            "alignment": "center",
+            "max_width": 500
+          }
+        }
+      },
+      "block_order": [
+        "text_gf99Ta",
+        "liquid_8RiYfh",
+        "liquid_rkxh4k",
+        "variant_picker_XkHPwh",
+        "collapsible_text_YLy6EQ",
+        "line_item_property_3EQCLQ",
+        "line_item_property_HB9FGi",
+        "buy_buttons_LgztLR",
+        "liquid_FPMx4r",
+        "image_aqbxPV"
+      ],
+      "settings": {
+        "full_width": true,
+        "show_fixed_add_to_cart": true,
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_bottom",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "thumbnails",
+        "enable_video_autoplay": false,
+        "enable_video_looping": true,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "tabs_H4b7TG": {
+      "type": "tabs",
+      "blocks": {
+        "tab_LC9TV3": {
+          "type": "tab",
+          "settings": {
+            "title": "Détails",
+            "content": "<p><span style=\"text-decoration:underline\"><strong>Tous nos coffrets comprennent également un sac cadeau</strong></span><strong>, parfait pour offrir et créer un moment inoubliable.</strong></p><p>Notre Coffret Ours Éternel avec collier personnalisé caché est un cadeau qui dure toute une vie. Doté d'une véritable rose préservée qui durera toujours, ce cadeau est le symbole parfait de l'amour éternel.</p><p>Faites pivoter la rose pour révéler un collier fait main et personnalisé avec les gravures de votre choix.</p><p><strong>Détails :</strong><br/></p><ul><li>Acier inoxydable 316L certifié - résistant à l'eau et ne noircissant pas<br/></li><li>Fabriqué avec le plus grand soin</li></ul><p><strong>Gravure :</strong></p><ul><li>Jusqu'à 15 caractères sur chaque cœur</li></ul><p><strong>Qualité :</strong></p><ul><li>Hypoallergénique : Nos bijoux sont garantis sans nickel, sans cadmium et sans sel de plomb.</li><li>Résistant à l'eau et non noircissant</li><li>Garantie de 2 ans</li></ul><p><strong>Dimensions :</strong></p><ul><li>Longueur du collier : 44cm+5cm</li></ul>",
+            "page": ""
+          }
+        },
+        "tab_UWQXjN": {
+          "type": "tab",
+          "settings": {
+            "title": "Informations sur l'expédition",
+            "content": "<p>Toutes les commandes sont emballées, préparées et expédiées dans un délai de<strong> 1 à 3 jours ouvrables</strong>.</p><p>Nous offrons un service d'expédition rapide dans le monde entier et le délai de livraison habituel est de <strong>6 à 12 jours</strong>. En fonction de votre lieu de résidence, vous pouvez recevoir les articles plus tard ou plus tôt.</p><p>Toutes les commandes sont accompagnées d'un numéro de suivi, ce qui vous permet de contrôler votre envoi à chaque étape.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_LC9TV3",
+        "tab_UWQXjN"
+      ],
+      "name": "Tabs",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "subheading": "",
+        "title": "",
+        "text_alignment": "center",
+        "first_tab_open": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "multi_column_zT3jpL": {
+      "type": "multi-column",
+      "blocks": {
+        "item_8LPiWg": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/0926.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_xkgX9m": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/0927(2).mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_Gr43H3": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/IMG_1916.MOV",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_weyrRT": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/0927.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_j9cg3m": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/IMG_1915.MOV",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_8g3q3z": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/0926(1).mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_8LPiWg",
+        "item_xkgX9m",
+        "item_Gr43H3",
+        "item_weyrRT",
+        "item_j9cg3m",
+        "item_8g3q3z"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Elles l'adorent ✨",
+        "content": "",
+        "background": "#800020",
+        "background_gradient": "",
+        "text_color": "#ffffff"
+      }
+    },
+    "multiple_images_with_text_fbTh6C": {
+      "type": "multiple-images-with-text",
+      "blocks": {
+        "item_jQ8jiB": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/ezgif-7b56160c6bd54e.gif",
+            "image_rotation_degrees": -2,
+            "subheading": "",
+            "title": "Une Surprise Sentimentale",
+            "content": "<p>Imaginez sa réaction lorsque qu'elle tournera la manivelle pour révéler le collier personnalisé caché derrière la rose.... ♥</p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        },
+        "item_GjTTXr": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Light_Pink_and_Red_bear_rose.jpg",
+            "image_rotation_degrees": 0,
+            "subheading": "",
+            "title": "Symbole Éternel d'Amour",
+            "content": "<p>Notre rose éternelle restera belle toute votre vie, tout comme l'amour que vous portez à l'être cher. Un cadeau qui traverse le temps et ne perd jamais de sa magie.</p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        },
+        "item_TkjMV3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/3_collier_3_gravures.jpg",
+            "image_rotation_degrees": 1.5,
+            "subheading": "",
+            "title": "Construit pour durer",
+            "content": "<p>Fabriqué en acier inoxydable 316L, le collier est garanti pour la vie.</p><p>Hypoallergénique, sans plomb ni nickel.</p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_jQ8jiB",
+        "item_GjTTXr",
+        "item_TkjMV3"
+      ],
+      "name": "Multiple images with text",
+      "settings": {
+        "full_width": true,
+        "images_layout": "collage",
+        "collage_images_alignment": "middle",
+        "background": "#800020",
+        "background_gradient": "",
+        "text_color": "#ffffff",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "faq_wzmqVL": {
+      "type": "faq",
+      "blocks": {
+        "item_8ggLJ6": {
+          "type": "item",
+          "settings": {
+            "title": "Que contient ma commande ?",
+            "content": "<ul><li>Un ours rose éternelle</li><li>Votre collier que vous avez personnalisé</li><li>Un sac Cadeau</li><li>Un carton protecteur</li></ul>"
+          }
+        },
+        "item_E3XFn6": {
+          "type": "item",
+          "settings": {
+            "title": "Le collier résiste t-il à l'eau ?",
+            "content": "<p>Oui bien sûr ! Nos bijoux sont en acier inoxydable, vous pouvez aller dans l'eau sans soucis !</p>"
+          }
+        },
+        "item_6R8nNA": {
+          "type": "item",
+          "settings": {
+            "title": "Comment faire si le bijou est arrivé endommagé ?",
+            "content": "<p>Si le bijou a été endommagé au cours de la livraison, nous vous renvoyons le même à nos frais !</p>"
+          }
+        },
+        "item_XhFDHD": {
+          "type": "item",
+          "settings": {
+            "title": "Si jamais je n'aime pas comment faire ?",
+            "content": "<p>Vous n'aimez pas ? Envoyez-nous un message et nous vous remboursons sans poser de questions !</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_8ggLJ6",
+        "item_E3XFn6",
+        "item_6R8nNA",
+        "item_XhFDHD"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Vos questions",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "#000000",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "#ffffff",
+        "accordion_background": "#dfdbdc",
+        "accordion_text_color": ""
+      }
+    }
+  },
+  "order": [
+    "image_with_text_overlay_cnJjh8",
+    "logo_list_YUNwB8",
+    "rich_text_wrkQAe",
+    "image_with_text_overlay_GnJJHF",
+    "multi_column_GCxQPU",
+    "main",
+    "tabs_H4b7TG",
+    "multi_column_zT3jpL",
+    "multiple_images_with_text_fbTh6C",
+    "faq_wzmqVL"
+  ]
+}
