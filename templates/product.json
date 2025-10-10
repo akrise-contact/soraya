@@ -544,18 +544,15 @@
     "1760089153b2b5ee4b": {
       "type": "apps",
       "blocks": {
-        "judge_me_reviews_review_widget_CDNRii": {
-          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+        "judge_me_reviews_featured_carousel_4M9TNQ": {
+          "type": "shopify://apps/judge-me-reviews/blocks/featured_carousel/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
           "settings": {
-            "review_data": "real_data",
-            "show_shop_reviews": false,
-            "empty_state": "empty_widget",
-            "max_width": 1200
+            "maxwidth": 1080
           }
         }
       },
       "block_order": [
-        "judge_me_reviews_review_widget_CDNRii"
+        "judge_me_reviews_featured_carousel_4M9TNQ"
       ],
       "settings": {
         "full_width": true,
