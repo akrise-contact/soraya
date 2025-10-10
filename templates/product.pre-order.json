@@ -27,7 +27,7 @@
         "liquid_8TUgET": {
           "type": "liquid",
           "settings": {
-            "liquid": ""
+            "liquid": "<div class=\"price-container\">\n  <span class=\"sale-price\">49,90 €</span>\n  <span class=\"compare-price\">69,99 €</span>\n</div>\n\n<style>\n  .price-container {\n    display: inline-flex;\n    align-items: center;\n    gap: 10px;\n  }\n  \n  .sale-price {\n    font-size: 24px;\n    font-weight: 600;\n    color: #800020;\n  }\n  \n  .compare-price {\n    font-size: 18px;\n    color: #000;\n    text-decoration: line-through;\n  }\n</style>"
           }
         },
         "liquid_pKVN8L": {
