@@ -134,7 +134,7 @@
         "item_PdRP6D": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/dfg.png",
+            "image": "shopify://shop_images/e6BlAcE8uc_mid.jpg",
             "column_size": "3",
             "title": "Sophie M.",
             "heading_tag": "h4",
@@ -147,7 +147,7 @@
         "item_qpGiMG": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/fvzs1IMoz_mid.jpg",
+            "image": "shopify://shop_images/JIyJKvIbTA_mid.jpg",
             "column_size": "3",
             "title": "Marc L.",
             "heading_tag": "h4",
@@ -160,7 +160,7 @@
         "item_KJXbCP": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/guz1RtPFjZ_mid.jpg",
+            "image": "shopify://shop_images/Sans_titre_1000_x_1000_px_bord_arrondi_b50e5a1e-1cdd-42f7-8772-20762b9c097d.png",
             "column_size": "3",
             "title": "Emma R.",
             "heading_tag": "h4",
@@ -173,7 +173,7 @@
         "item_EJJR33": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/CUHycauCrF_mid.jpg",
+            "image": "shopify://shop_images/Sans_titre_1000_x_1000_px_bord_arrondi_b50e5a1e-1cdd-42f7-8772-20762b9c097d.png",
             "column_size": "3",
             "title": "Julie D.",
             "heading_tag": "h4",
@@ -186,7 +186,7 @@
         "item_nrWTMk": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/OTTQViMNB_mid.jpg",
+            "image": "shopify://shop_images/Cupid_Love_4de34684-562c-4c69-a400-988b8251b4c4.jpg",
             "column_size": "3",
             "title": "Thomas B.",
             "heading_tag": "h4",
@@ -373,6 +373,63 @@
         "heading_gradient": ""
       }
     },
+    "multiple_images_with_text_fbTh6C": {
+      "type": "multiple-images-with-text",
+      "blocks": {
+        "item_jQ8jiB": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Eternal_Love_Box_Promo.jpg",
+            "image_rotation_degrees": -2,
+            "subheading": "",
+            "title": "Une Surprise Sentimentale",
+            "content": "<p>Imaginez sa réaction lorsque qu'elle tournera la manivelle pour révéler le collier personnalisé caché derrière la rose.... ♥</p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        },
+        "item_GjTTXr": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/love_box_shooting_-_red_-_lucas_-_jewel_3ffd7585-caab-4373-8883-e9ad1a8d0b8c.jpg",
+            "image_rotation_degrees": 0,
+            "subheading": "",
+            "title": "Symbole Éternel d'Amour",
+            "content": "<p>Notre rose éternelle restera belle toute votre vie, tout comme l'amour que vous portez à l'être cher. Un cadeau qui traverse le temps et ne perd jamais de sa magie.</p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        },
+        "item_TkjMV3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/3_collier_3_gravures.jpg",
+            "image_rotation_degrees": 1.5,
+            "subheading": "",
+            "title": "Construit pour durer",
+            "content": "<p>Fabriqué en acier inoxydable 316L, le collier est garanti pour la vie.</p><p>Hypoallergénique, sans plomb ni nickel.</p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_jQ8jiB",
+        "item_GjTTXr",
+        "item_TkjMV3"
+      ],
+      "name": "Multiple images with text",
+      "settings": {
+        "full_width": true,
+        "images_layout": "collage",
+        "collage_images_alignment": "middle",
+        "background": "#800020",
+        "background_gradient": "",
+        "text_color": "#ffffff",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
     "multi_column_zT3jpL": {
       "type": "multi-column",
       "blocks": {
@@ -477,63 +534,6 @@
         "text_color": "#ffffff"
       }
     },
-    "multiple_images_with_text_fbTh6C": {
-      "type": "multiple-images-with-text",
-      "blocks": {
-        "item_jQ8jiB": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Eternal_Love_Box_Promo.jpg",
-            "image_rotation_degrees": -2,
-            "subheading": "",
-            "title": "Une Surprise Sentimentale",
-            "content": "<p>Imaginez sa réaction lorsque qu'elle tournera la manivelle pour révéler le collier personnalisé caché derrière la rose.... ♥</p>",
-            "button_url": "",
-            "button_text": ""
-          }
-        },
-        "item_GjTTXr": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/love_box_shooting_-_red_-_lucas_-_jewel_3ffd7585-caab-4373-8883-e9ad1a8d0b8c.jpg",
-            "image_rotation_degrees": 0,
-            "subheading": "",
-            "title": "Symbole Éternel d'Amour",
-            "content": "<p>Notre rose éternelle restera belle toute votre vie, tout comme l'amour que vous portez à l'être cher. Un cadeau qui traverse le temps et ne perd jamais de sa magie.</p>",
-            "button_url": "",
-            "button_text": ""
-          }
-        },
-        "item_TkjMV3": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/3_collier_3_gravures.jpg",
-            "image_rotation_degrees": 1.5,
-            "subheading": "",
-            "title": "Construit pour durer",
-            "content": "<p>Fabriqué en acier inoxydable 316L, le collier est garanti pour la vie.</p><p>Hypoallergénique, sans plomb ni nickel.</p>",
-            "button_url": "",
-            "button_text": ""
-          }
-        }
-      },
-      "block_order": [
-        "item_jQ8jiB",
-        "item_GjTTXr",
-        "item_TkjMV3"
-      ],
-      "name": "Multiple images with text",
-      "settings": {
-        "full_width": true,
-        "images_layout": "collage",
-        "collage_images_alignment": "middle",
-        "background": "#800020",
-        "background_gradient": "",
-        "text_color": "#ffffff",
-        "button_background": "",
-        "button_text_color": ""
-      }
-    },
     "faq_wzmqVL": {
       "type": "faq",
       "blocks": {
@@ -604,8 +604,8 @@
     "multi_column_GCxQPU",
     "main",
     "tabs_H4b7TG",
-    "multi_column_zT3jpL",
     "multiple_images_with_text_fbTh6C",
+    "multi_column_zT3jpL",
     "faq_wzmqVL"
   ]
 }
