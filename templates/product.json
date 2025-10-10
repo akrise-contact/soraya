@@ -543,17 +543,6 @@
     },
     "1760089153b2b5ee4b": {
       "type": "apps",
-      "blocks": {
-        "judge_me_reviews_featured_carousel_4M9TNQ": {
-          "type": "shopify://apps/judge-me-reviews/blocks/featured_carousel/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-            "maxwidth": 1080
-          }
-        }
-      },
-      "block_order": [
-        "judge_me_reviews_featured_carousel_4M9TNQ"
-      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
