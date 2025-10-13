@@ -118,9 +118,24 @@
           "settings": {
             "collection": "",
             "image": "shopify://shop_images/Light_Pink_and_Red_bear_rose.jpg",
-            "subheading": "",
-            "title": "Voir",
+            "subheading": "Ours éternel",
+            "title": "",
             "url": "shopify://products/ours-eternel-collier-personnalise",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "collection_ztyNzx": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/Cupid_Love_4de34684-562c-4c69-a400-988b8251b4c4.jpg",
+            "subheading": "Coeur éternel",
+            "title": "",
+            "url": "",
             "heading_tag": "h2",
             "text_position": "place-self-center text-center",
             "text_color": "#ffffff",
@@ -130,7 +145,8 @@
         }
       },
       "block_order": [
-        "collection_XjbjXw"
+        "collection_XjbjXw",
+        "collection_ztyNzx"
       ],
       "name": "Collection list",
       "settings": {
