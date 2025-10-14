@@ -295,6 +295,12 @@
             "payment_button_text_color": ""
           }
         },
+        "essential_countdown_timer_app_block_eTjjXX": {
+          "type": "shopify://apps/essential-countdown-timer/blocks/app-block/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
+          "settings": {
+            "id": ""
+          }
+        },
         "liquid_FPMx4r": {
           "type": "liquid",
           "settings": {
@@ -320,6 +326,7 @@
         "line_item_property_3EQCLQ",
         "line_item_property_HB9FGi",
         "buy_buttons_LgztLR",
+        "essential_countdown_timer_app_block_eTjjXX",
         "liquid_FPMx4r",
         "image_aqbxPV"
       ],
