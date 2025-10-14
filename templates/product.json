@@ -218,28 +218,6 @@
         "text_color": "#800020"
       }
     },
-    "17604518831f3b8b28": {
-      "type": "apps",
-      "blocks": {
-        "essential_countdown_timer_app_block_CtECAK": {
-          "type": "shopify://apps/essential-countdown-timer/blocks/app-block/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
-          "settings": {
-            "id": "cmgqhxtwg0098g39078oktiof"
-          }
-        }
-      },
-      "block_order": [
-        "essential_countdown_timer_app_block_CtECAK"
-      ],
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -323,6 +301,12 @@
             "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Payment Options</title>\n    <style>\n        body.unique-body-Pay123 {\n            font-family: Arial, sans-serif;\n            display: flex;\n            justify-content: center;\n            align-items: center;\n            height: 100vh;\n            margin: 0;\n            background-color: #f9f9f9;\n        }\n        .unique-payment-container-Xyz456 {\n            text-align: center;\n        }\n        .unique-payment-options-Abc789 {\n            display: flex;\n            justify-content: center;\n            gap: 10px;\n        }\n        .unique-payment-options-Abc789 img {\n            width: 50px;\n            height: auto;\n        }\n    </style>\n</head>\n<body class=\"unique-body-Pay123\">\n    <div class=\"unique-payment-container-Xyz456\">\n        <div class=\"unique-payment-options-Abc789\">\n            <img src=\"https://www.svgrepo.com/show/14823/amex.svg\" alt=\"AMEX\">\n            <img src=\"https://www.svgrepo.com/show/508402/apple-pay.svg\" alt=\"Apple Pay\">\n            <img src=\"https://www.svgrepo.com/show/508703/mastercard.svg\" alt=\"MasterCard\">\n            <img src=\"https://www.svgrepo.com/show/508716/paypal.svg\" alt=\"PayPal\">\n            <img src=\"https://www.svgrepo.com/show/508690/google-pay.svg\" alt=\"Google Pay\">\n            <img src=\"https://www.svgrepo.com/show/508730/visa-classic.svg\" alt=\"VISA\">\n        </div>\n    </div>\n</body>\n</html>"
           }
         },
+        "essential_countdown_timer_app_block_FwawXQ": {
+          "type": "shopify://apps/essential-countdown-timer/blocks/app-block/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
+          "settings": {
+            "id": ""
+          }
+        },
         "image_aqbxPV": {
           "type": "image",
           "settings": {
@@ -343,6 +327,7 @@
         "line_item_property_HB9FGi",
         "buy_buttons_LgztLR",
         "liquid_FPMx4r",
+        "essential_countdown_timer_app_block_FwawXQ",
         "image_aqbxPV"
       ],
       "settings": {
@@ -642,7 +627,6 @@
     "rich_text_wrkQAe",
     "image_with_text_overlay_GnJJHF",
     "multi_column_GCxQPU",
-    "17604518831f3b8b28",
     "main",
     "tabs_H4b7TG",
     "multi_column_zT3jpL",
