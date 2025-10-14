@@ -218,6 +218,28 @@
         "text_color": "#800020"
       }
     },
+    "17604518831f3b8b28": {
+      "type": "apps",
+      "blocks": {
+        "essential_countdown_timer_app_block_CtECAK": {
+          "type": "shopify://apps/essential-countdown-timer/blocks/app-block/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
+          "settings": {
+            "id": "cmgqhxtwg0098g39078oktiof"
+          }
+        }
+      },
+      "block_order": [
+        "essential_countdown_timer_app_block_CtECAK"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -295,12 +317,6 @@
             "payment_button_text_color": ""
           }
         },
-        "essential_countdown_timer_app_block_eTjjXX": {
-          "type": "shopify://apps/essential-countdown-timer/blocks/app-block/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
-          "settings": {
-            "id": ""
-          }
-        },
         "liquid_FPMx4r": {
           "type": "liquid",
           "settings": {
@@ -326,7 +342,6 @@
         "line_item_property_3EQCLQ",
         "line_item_property_HB9FGi",
         "buy_buttons_LgztLR",
-        "essential_countdown_timer_app_block_eTjjXX",
         "liquid_FPMx4r",
         "image_aqbxPV"
       ],
@@ -627,6 +642,7 @@
     "rich_text_wrkQAe",
     "image_with_text_overlay_GnJJHF",
     "multi_column_GCxQPU",
+    "17604518831f3b8b28",
     "main",
     "tabs_H4b7TG",
     "multi_column_zT3jpL",
