@@ -539,6 +539,17 @@
         "button_text_color": ""
       }
     },
+    "1760564483dd304696": {
+      "type": "apps",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "1760089153b2b5ee4b": {
       "type": "apps",
       "settings": {
@@ -622,6 +633,7 @@
     "tabs_H4b7TG",
     "multi_column_GCxQPU",
     "multiple_images_with_text_fbTh6C",
+    "1760564483dd304696",
     "1760089153b2b5ee4b",
     "faq_wzmqVL"
   ]
