@@ -238,7 +238,7 @@
         "liquid_VARkdh": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div style=\"display:flex;justify-content:center;align-items:center;\nbackground:#f5f5f5;padding:8px 18px;border-radius:9999px;\nfont-family:Arial, sans-serif;font-size:13.5px;font-weight:700;\ncolor:#000;text-transform:uppercase;margin:auto;max-width:fit-content;\">\n  Élu meilleur cadeau à offrir en 2025 🇫🇷\n</div>"
+            "liquid": "<div style=\"display:flex;justify-content:center;align-items:center;\nbackground:#f5f5f5;padding:8px 18px;border-radius:9999px;\nfont-family:Arial, sans-serif;font-size:13.5px;font-weight:700;\ncolor:#000;text-transform:uppercase;margin:auto;max-width:fit-content;\">\n  Élu meilleur cadeau à offrir en 2025🇫🇷\n</div>"
           }
         },
         "text_gf99Ta": {
