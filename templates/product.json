@@ -238,7 +238,7 @@
         "liquid_VARkdh": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div style=\"display:inline-flex;align-items:center;gap:6px;\nbackground:#f5f5f5;padding:6px 14px;border-radius:9999px;\nfont-family:Arial, sans-serif;font-size:13px;font-weight:700;\ncolor:#000;text-transform:uppercase;\">\n  Élu n°1 des cadeaux en 2025\n  <span style=\"display:flex;align-items:center;gap:3px;\">\n    <span style=\"width:10px;height:10px;background:#0055A4;border-radius:2px;\"></span>\n    <span style=\"width:10px;height:10px;background:#fff;border-radius:2px;border:0.5px solid #ccc;\"></span>\n    <span style=\"width:10px;height:10px;background:#EF4135;border-radius:2px;\"></span>\n  </span>\n</div>"
+            "liquid": "<div style=\"display:flex;justify-content:center;align-items:center;\nbackground:#f5f5f5;padding:8px 18px;border-radius:9999px;\nfont-family:Arial, sans-serif;font-size:13.5px;font-weight:700;\ncolor:#000;text-transform:uppercase;margin:auto;max-width:fit-content;\">\n  🎁 Élu n°1 des cadeaux en 2025 🇫🇷\n</div>"
           }
         },
         "liquid_QGFUqr": {
