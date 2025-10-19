@@ -398,20 +398,10 @@
     "testimonials_fwRNiJ": {
       "type": "testimonials",
       "blocks": {
-        "testimonial_BhFDEn": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Marc T.",
-            "title": "",
-            "content": "<p>Ma copine m'a dit que c'était le plus beau cadeau qu'elle avait jamais reçu. Elle l'a posé direct sur sa table de nuit et porte le collier tous les jours. Franchement, pour le prix, c'est donné.</p>"
-          }
-        },
         "testimonial_8tNjVK": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/pexels-italo-melo-881954-2379005.jpg",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
@@ -420,9 +410,22 @@
             "content": "<p>J'avais peur que ça fasse cheap mais quand j'ai reçu le colis, j'étais rassuré. L'ours est trop mignon, la rose est vraiment belle, et ma femme a s'attendais vraimetn pas à voir le collier caché. </p>"
           }
         },
+        "testimonial_V4VVhY": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/pexels-elletakesphotos-1680175.jpg",
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Lucas D.",
+            "title": "",
+            "content": "<p>Commande les yeux fermés. Toutes ses copines ont demandé où je l'avais trouvé.</p>"
+          }
+        },
         "testimonial_48Cg3G": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/pexels-divinetechygirl-1181424.jpg",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
@@ -431,23 +434,24 @@
             "content": "<p>J'ai commandé cet ours pour l'anniversaire de ma fille de 19 ans. Elle a fondu en larmes ! La rose est magnifique et le collier de très bonne qualité. Je recommande à 100%</p>"
           }
         },
-        "testimonial_V4VVhY": {
+        "testimonial_BhFDEn": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/pexels-stefanstefancik-91227_c7f75afe-5e82-468b-b650-7e362a46d20b.jpg",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
-            "author": "Lucas D.",
+            "author": "Marc T.",
             "title": "",
-            "content": "<p>Commande les yeux fermés. Toutes ses copines ont demandé où je l'avais trouvé.</p>"
+            "content": "<p>Ma copine m'a dit que c'était le plus beau cadeau qu'elle avait jamais reçu. Elle l'a posé direct sur sa table de nuit et porte le collier tous les jours. Franchement, pour le prix, c'est donné.</p>"
           }
         }
       },
       "block_order": [
-        "testimonial_BhFDEn",
         "testimonial_8tNjVK",
+        "testimonial_V4VVhY",
         "testimonial_48Cg3G",
-        "testimonial_V4VVhY"
+        "testimonial_BhFDEn"
       ],
       "name": "Testimonials",
       "settings": {
@@ -465,173 +469,6 @@
         "heading_gradient": "",
         "testimonial_card_background": "",
         "testimonial_card_text_color": ""
-      }
-    },
-    "rich_text_EVHAp4": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_6EQikz": {
-          "type": "heading",
-          "settings": {
-            "text": "❌ Les fleurs classiques ?",
-            "heading_tag": "h3",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
-        "richtext_LzxEHT": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Elles fanent en 5 jours et finissent à la poubelle.</p>"
-          }
-        },
-        "heading_Wk4Ew7": {
-          "type": "heading",
-          "settings": {
-            "text": "❌ Un bijou au hasard ?",
-            "heading_tag": "h3",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
-        "richtext_jJPMiz": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Tu risques de te planter complètement sur ses goûts.</p>"
-          }
-        },
-        "heading_MUYpQp": {
-          "type": "heading",
-          "settings": {
-            "text": "❌ Les chocolats ?",
-            "heading_tag": "h3",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
-        "richtext_T833zA": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Sympas mais oubliés dès le lendemain.</p>"
-          }
-        },
-        "heading_Pra3dL": {
-          "type": "heading",
-          "settings": {
-            "text": "✅ L'Ours Éternel Soraya ?",
-            "heading_tag": "h2",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_6EQikz",
-        "richtext_LzxEHT",
-        "heading_Wk4Ew7",
-        "richtext_jJPMiz",
-        "heading_MUYpQp",
-        "richtext_T833zA",
-        "heading_Pra3dL"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "multi_column_GCxQPU": {
-      "type": "multi-column",
-      "blocks": {
-        "item_PdRP6D": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/dfg.png",
-            "column_size": "3",
-            "title": "Sophie M.",
-            "heading_tag": "h4",
-            "content": "<p>J'ai commandé cet ours pour l'anniversaire de ma fille de 19 ans. Quand elle a découvert le collier caché avec ses initiales... elle a fondu en larmes ! La rose est magnifique et le collier de très bonne qualité. Livraison rapide, je recommande à 100%</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_qpGiMG": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/fvzs1IMoz_mid.jpg",
-            "column_size": "3",
-            "title": "Marc L.",
-            "heading_tag": "h4",
-            "content": "<p>Ma copine ne s'y attendait pas du tout ! L'effet de surprise est incroyable, elle a mis 5 minutes à comprendre qu'il fallait tourner la rose 😅 Le collier avec notre date de rencontre gravée est parfait. Cadeau réussi!</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_KJXbCP": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/guz1RtPFjZ_mid.jpg",
-            "column_size": "3",
-            "title": "Emma R.",
-            "heading_tag": "h4",
-            "content": "<p>Cadeau de Saint-Valentin parfait ! La rose est vraiment belle et semble fragile mais elle est bien solide. Mon copain a fait graver 'E♡T Forever' et c'est exactement ce que j'espérais. Je le porte tous les jours.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_EJJR33": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/CUHycauCrF_mid.jpg",
-            "column_size": "3",
-            "title": "Julie D.",
-            "heading_tag": "h4",
-            "content": "<p>Pour les 5 ans avec mon mari, j'ai pris la rose rouge avec le collier or rose. La gravure de notre date de mariage est nette et lisible. L'emballage était soigné. Un souvenir qu'on gardera toute notre vie !\"</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_nrWTMk": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/OTTQViMNB_mid.jpg",
-            "column_size": "3",
-            "title": "Thomas B.",
-            "heading_tag": "h4",
-            "content": "<p>Ma mère a adoré ! Je lui ai offert pour la fête des mères avec 'Maman ♥' gravé. Elle l'a mis sur sa commode et montre le collier à toutes ses amies. Très content de mon achat, merci Soraya memories.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_PdRP6D",
-        "item_qpGiMG",
-        "item_KJXbCP",
-        "item_EJJR33",
-        "item_nrWTMk"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "start",
-        "subheading": "Elles l'ont adoré",
-        "title": "Pourquoi pas elle?",
-        "content": "",
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": "#800020"
       }
     },
     "multiple_images_with_text_fbTh6C": {
@@ -681,14 +518,104 @@
       ],
       "name": "Multiple images with text",
       "settings": {
-        "full_width": true,
-        "images_layout": "collage",
-        "collage_images_alignment": "middle",
+        "full_width": false,
+        "images_layout": "scattered",
+        "collage_images_alignment": "top",
         "background": "#800020",
         "background_gradient": "",
         "text_color": "#ffffff",
         "button_background": "",
         "button_text_color": ""
+      }
+    },
+    "multi_column_WVG9ed": {
+      "type": "multi-column",
+      "blocks": {
+        "item_wcJdcg": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/dfg.png",
+            "column_size": "3",
+            "title": "Sophie M.",
+            "heading_tag": "h4",
+            "content": "<p>J'ai commandé cet ours pour l'anniversaire de ma fille de 19 ans. Quand elle a découvert le collier caché avec ses initiales... elle a fondu en larmes ! La rose est magnifique et le collier de très bonne qualité. Livraison rapide, je recommande à 100%</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_mP3d3L": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/fvzs1IMoz_mid.jpg",
+            "column_size": "3",
+            "title": "Marc L.",
+            "heading_tag": "h4",
+            "content": "<p>Ma copine ne s'y attendait pas du tout ! L'effet de surprise est incroyable, elle a mis 5 minutes à comprendre qu'il fallait tourner la rose 😅 Le collier avec notre date de rencontre gravée est parfait. Cadeau réussi!</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_P6jYc7": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/guz1RtPFjZ_mid.jpg",
+            "column_size": "3",
+            "title": "Emma R.",
+            "heading_tag": "h4",
+            "content": "<p>Cadeau de Saint-Valentin parfait ! La rose est vraiment belle et semble fragile mais elle est bien solide. Mon copain a fait graver 'E♡T Forever' et c'est exactement ce que j'espérais. Je le porte tous les jours.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_jxk4nh": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/CUHycauCrF_mid.jpg",
+            "column_size": "3",
+            "title": "Julie D.",
+            "heading_tag": "h4",
+            "content": "<p>Pour les 5 ans avec mon mari, j'ai pris la rose rouge avec le collier or rose. La gravure de notre date de mariage est nette et lisible. L'emballage était soigné. Un souvenir qu'on gardera toute notre vie !\"</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_pyz4pT": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/OTTQViMNB_mid.jpg",
+            "column_size": "3",
+            "title": "Thomas B.",
+            "heading_tag": "h4",
+            "content": "<p>Ma mère a adoré ! Je lui ai offert pour la fête des mères avec 'Maman ♥' gravé. Elle l'a mis sur sa commode et montre le collier à toutes ses amies. Très content de mon achat, merci Soraya memories.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_wcJdcg",
+        "item_mP3d3L",
+        "item_P6jYc7",
+        "item_jxk4nh",
+        "item_pyz4pT"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "Elles l'ont adoré",
+        "title": "Pourquoi pas elle?",
+        "content": "",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "#800020"
       }
     },
     "1760564483dd304696": {
@@ -792,9 +719,8 @@
     "main",
     "tabs_kNAGcW",
     "testimonials_fwRNiJ",
-    "rich_text_EVHAp4",
-    "multi_column_GCxQPU",
     "multiple_images_with_text_fbTh6C",
+    "multi_column_WVG9ed",
     "1760564483dd304696",
     "1760089153b2b5ee4b",
     "faq_wzmqVL"
