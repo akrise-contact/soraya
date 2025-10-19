@@ -237,6 +237,7 @@
       "blocks": {
         "liquid_VARkdh": {
           "type": "liquid",
+          "disabled": true,
           "settings": {
             "liquid": "<div style=\"display:flex;justify-content:center;align-items:center;\nbackground:#f5f5f5;padding:8px 18px;border-radius:9999px;\nfont-family:Arial, sans-serif;font-size:13.5px;font-weight:700;\ncolor:#000;text-transform:uppercase;margin:auto;max-width:fit-content;\">\n  Élu meilleur cadeau de 2025 🏆\n</div>"
           }
@@ -474,8 +475,8 @@
         "stack_on_mobile": false,
         "gap": "medium",
         "text_alignment": "start",
-        "subheading": "",
-        "title": "Pourquoi pas vous?",
+        "subheading": "Elles l'ont adoré",
+        "title": "Pourquoi pas elle?",
         "content": "",
         "background": "#ffffff",
         "background_gradient": "",
@@ -568,7 +569,7 @@
           "type": "item",
           "settings": {
             "title": "Que contient ma commande ?",
-            "content": "<ul><li>Un ours rose éternelle</li><li>Votre collier que vous avez personnalisé</li><li>Un sac Cadeau</li><li>Un carton protecteur</li></ul>"
+            "content": "<ul><li>Un ours rose éternelle</li><li>Votre collier que vous avez personnalisé</li><li>Un sac Cadeau</li><li>Un carton protecteur</li></ul><p><br/>Tout est inclus, rien à ajouter. C'est prêt à offrir.✨</p>"
           }
         },
         "item_E3XFn6": {
