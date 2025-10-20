@@ -740,25 +740,15 @@
     "rich_text_496Ycb": {
       "type": "rich-text",
       "blocks": {
-        "heading_kR4P4n": {
-          "type": "heading",
+        "richtext_UC7RRn": {
+          "type": "richtext",
           "settings": {
-            "text": "ELLES L'ONT ADORÉES",
-            "heading_tag": "h1",
-            "text_color": "#800020",
-            "gradient": ""
-          }
-        },
-        "subheading_YNCimU": {
-          "type": "subheading",
-          "settings": {
-            "text": ""
+            "content": "<h1>ELLES L'ONT ADORÉES</h1>"
           }
         }
       },
       "block_order": [
-        "heading_kR4P4n",
-        "subheading_YNCimU"
+        "richtext_UC7RRn"
       ],
       "name": "Rich text",
       "settings": {
