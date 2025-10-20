@@ -26,6 +26,89 @@
         "overlay_opacity": 0
       }
     },
+    "scrolling_image_tJN3aG": {
+      "type": "scrolling-image",
+      "blocks": {
+        "image_yjaDgV": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/elle.png",
+            "url": ""
+          }
+        },
+        "image_REUVjH": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/vogue.png",
+            "url": ""
+          }
+        },
+        "image_GezpDP": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/marie_claire.png",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_yjaDgV",
+        "image_REUVjH",
+        "image_GezpDP"
+      ],
+      "name": "Scrolling Images",
+      "settings": {
+        "heading": "",
+        "heading_custom": false,
+        "heading_font": "poppins_n7",
+        "heading_size": 40,
+        "heading_height": 130,
+        "heading_align": "center",
+        "slider_speed": 15,
+        "slider_gap": 10,
+        "slider_gap_mobile": 10,
+        "slider_mt": 0,
+        "slider_direction": "left",
+        "pause_hover": false,
+        "image_width_desktop": 100,
+        "image_width_mobile": 190,
+        "image_height_desktop": 100,
+        "image_height_mobile": 100,
+        "image_radius": 0,
+        "use_content": true,
+        "content_position": "center",
+        "content_max_width": 50,
+        "content_max_width_mobile": 50,
+        "content_padding_vertical": 0,
+        "content_padding_horizontal": 0,
+        "content_distance": 64,
+        "content_radius": 0,
+        "content_border_thickness": 0,
+        "use_shadow": false,
+        "text": "",
+        "text_custom": false,
+        "text_font": "assistant_n4",
+        "text_size": 0,
+        "text_height": 50,
+        "heading_color": "#000000",
+        "content_bg": "#FFFFFF",
+        "content_border_color": "#000000",
+        "text_color": "#000000",
+        "background_color": "#FFFFFF",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 12,
+        "margin_bottom": 0,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_horizontal": 0,
+        "padding_horizontal_mobile": 0,
+        "full_width": true,
+        "content_width": 230,
+        "border_thickness": 0,
+        "lazy": true
+      }
+    },
     "logo_list_YUNwB8": {
       "type": "logo-list",
       "blocks": {
@@ -68,6 +151,7 @@
         "logo_9KQaHF",
         "logo_UBkayV"
       ],
+      "disabled": true,
       "name": "Logo list",
       "settings": {
         "full_width": true,
@@ -108,7 +192,7 @@
         "text_position": "center",
         "background": "",
         "background_gradient": "",
-        "text_color": ""
+        "text_color": "#800020"
       }
     },
     "image_with_text_overlay_GnJJHF": {
@@ -830,6 +914,7 @@
   },
   "order": [
     "image_with_text_overlay_cnJjh8",
+    "scrolling_image_tJN3aG",
     "logo_list_YUNwB8",
     "rich_text_wrkQAe",
     "image_with_text_overlay_GnJJHF",
