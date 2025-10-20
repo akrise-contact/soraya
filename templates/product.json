@@ -471,61 +471,179 @@
         "testimonial_card_text_color": ""
       }
     },
-    "multiple_images_with_text_fbTh6C": {
-      "type": "multiple-images-with-text",
+    "multi_column_bGgjgP": {
+      "type": "multi-column",
       "blocks": {
-        "item_jQ8jiB": {
+        "item_twccLg": {
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/ezgif-7b56160c6bd54e.gif",
-            "image_rotation_degrees": -2,
-            "subheading": "",
+            "column_size": "3",
             "title": "Une Surprise Sentimentale",
+            "heading_tag": "h4",
             "content": "<p>Imaginez sa réaction lorsque qu'elle tournera la manivelle pour révéler le collier personnalisé caché derrière la rose.... ♥</p>",
-            "button_url": "",
-            "button_text": ""
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
           }
         },
-        "item_GjTTXr": {
+        "item_ba3nHc": {
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/Light_Pink_and_Red_bear_rose.jpg",
-            "image_rotation_degrees": 0,
-            "subheading": "",
+            "column_size": "3",
             "title": "Symbole Éternel d'Amour",
+            "heading_tag": "h4",
             "content": "<p>Notre rose éternelle restera belle toute votre vie, tout comme l'amour que vous portez à l'être cher. Un cadeau qui traverse le temps et ne perd jamais de sa magie.</p>",
-            "button_url": "",
-            "button_text": ""
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
           }
         },
-        "item_TkjMV3": {
+        "item_3fgEhm": {
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/3_collier_3_gravures.jpg",
-            "image_rotation_degrees": 1.5,
-            "subheading": "",
+            "column_size": "3",
             "title": "Construit pour durer",
+            "heading_tag": "h4",
             "content": "<p>Fabriqué en acier inoxydable 316L, le collier est garanti pour la vie.</p><p>Hypoallergénique, sans plomb ni nickel.</p>",
-            "button_url": "",
-            "button_text": ""
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
           }
         }
       },
       "block_order": [
-        "item_jQ8jiB",
-        "item_GjTTXr",
-        "item_TkjMV3"
+        "item_twccLg",
+        "item_ba3nHc",
+        "item_3fgEhm"
       ],
-      "name": "Multiple images with text",
+      "name": "Multi-column",
       "settings": {
-        "full_width": false,
-        "images_layout": "scattered",
-        "collage_images_alignment": "top",
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "",
+        "content": "",
         "background": "#800020",
         "background_gradient": "",
-        "text_color": "#ffffff",
-        "button_background": "",
-        "button_text_color": ""
+        "text_color": "#ffffff"
+      }
+    },
+    "image_link_blocks_mi6HGM": {
+      "type": "image-link-blocks",
+      "blocks": {
+        "item_VpBzf6": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "Ma femme",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_bcxW8D": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "Ma fille",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_amf74E": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "Ma copine",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_bJXJP9": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "ma mère",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_pFDdc3": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "ma petite fille",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_6hYiBh": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "ma mamie",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_9bbqn4": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "ma soeur",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "item_VpBzf6",
+        "item_bcxW8D",
+        "item_amf74E",
+        "item_bJXJP9",
+        "item_pFDdc3",
+        "item_6hYiBh",
+        "item_9bbqn4"
+      ],
+      "name": "Image link blocks",
+      "settings": {
+        "full_width": false,
+        "block_size": "medium",
+        "subheading": "",
+        "title": "Que ce soit pour ma...",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
       }
     },
     "multi_column_WVG9ed": {
@@ -719,7 +837,8 @@
     "main",
     "tabs_kNAGcW",
     "testimonials_fwRNiJ",
-    "multiple_images_with_text_fbTh6C",
+    "multi_column_bGgjgP",
+    "image_link_blocks_mi6HGM",
     "multi_column_WVG9ed",
     "1760564483dd304696",
     "1760089153b2b5ee4b",
