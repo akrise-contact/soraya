@@ -623,6 +623,7 @@
         "item_VpBzf6": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/3L9Oig5B_4t_mid.jpg",
             "stretch_image": true,
             "link_text": "Ma femme",
             "link_url": "",
@@ -635,6 +636,7 @@
         "item_bcxW8D": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/bear_shooting_-_light_pink_-_chloe_-_jewel_1_8ac446db-451f-4506-ab04-fd00b8fe2603.webp",
             "stretch_image": true,
             "link_text": "Ma fille",
             "link_url": "",
@@ -647,6 +649,7 @@
         "item_amf74E": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-10-20_193624.png",
             "stretch_image": true,
             "link_text": "Ma copine",
             "link_url": "",
@@ -659,6 +662,7 @@
         "item_bJXJP9": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/dfg.png",
             "stretch_image": true,
             "link_text": "ma mère",
             "link_url": "",
@@ -670,6 +674,7 @@
         },
         "item_pFDdc3": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "stretch_image": true,
             "link_text": "ma petite fille",
@@ -683,6 +688,7 @@
         "item_6hYiBh": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/9ENsnDYQ__mid.jpg",
             "stretch_image": true,
             "link_text": "ma mamie",
             "link_url": "",
@@ -695,6 +701,7 @@
         "item_9bbqn4": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/bear_shooting_-_white_-_axelle_-_rose_d5a6c080-7f0d-437d-848d-8786f23fee19.webp",
             "stretch_image": true,
             "link_text": "ma soeur",
             "link_url": "",
