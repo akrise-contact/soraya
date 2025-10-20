@@ -719,7 +719,7 @@
         "full_width": false,
         "block_size": "medium",
         "subheading": "",
-        "title": "Que ce soit pour ma...",
+        "title": "Que ce soit pour...",
         "content": "",
         "link_url": "",
         "link_text": "",
@@ -728,6 +728,39 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": ""
+      }
+    },
+    "rich_text_496Ycb": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_YNCimU": {
+          "type": "subheading",
+          "settings": {
+            "text": "Elles ont adoré"
+          }
+        },
+        "heading_kR4P4n": {
+          "type": "heading",
+          "settings": {
+            "text": "Pourquoi pas elle ?",
+            "heading_tag": "h1",
+            "text_color": "#800020",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_YNCimU",
+        "heading_kR4P4n"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "multi_column_WVG9ed": {
@@ -806,6 +839,7 @@
         "item_jxk4nh",
         "item_pyz4pT"
       ],
+      "disabled": true,
       "name": "Multi-column",
       "settings": {
         "full_width": true,
@@ -951,6 +985,7 @@
     "testimonials_fwRNiJ",
     "multi_column_bGgjgP",
     "image_link_blocks_mi6HGM",
+    "rich_text_496Ycb",
     "multi_column_WVG9ed",
     "1760564483dd304696",
     "1760089153b2b5ee4b",
