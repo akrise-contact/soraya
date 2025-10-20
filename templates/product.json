@@ -349,6 +349,16 @@
             "size_chart_page": ""
           }
         },
+        "collapsible_text_E6xMtK": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "💡 Idées de gravure",
+            "content": "<p><strong>Initiales du couple (A+B, A ♡ B)</strong><br/>Simple, intemporel, puissant.<br/><br/><strong>Noms (Julie / David)</strong><br/>Une déclaration gravée pour toujours.<br/><br/><strong>Date spéciale (01/05/2014)</strong><br/>Votre rencontre, votre mariage, votre moment.<br/><br/><strong>Chiffres romains (V.XVI.MMXX)</strong><br/>Élégance classique et sophistiquée.<br/><br/><strong>Citations romantiques :</strong><br/>- Pour toujours / et à jamais<br/>- You & Me / Forever<br/>- Je vous aime / Pour toujours<br/><br/>Chaque citation, une promesse gravée, capture l'éternité de vos sentiments. Choisissez celles qui résonnent le plus avec votre histoire.<br/><br/><strong>Symboles (♥❤♡✿❀✽★✯☆☘☾∞)</strong><br/>Exprimez l'inexprimable avec des symboles : cœur, étoile, fleur ou infini, ajoutant une couche d'émotion à votre bijou.<br/><br/>⚠️ Veuillez sélectionner uniquement les symboles proposés pour assurer une gravure sans erreur.<br/><br/>⚠️ Plus votre message est court, plus la gravure sera lisible et soignée. Pour un résultat optimal, misez sur la simplicité.<br/><br/></p>",
+            "page": ""
+          }
+        },
         "line_item_property_3EQCLQ": {
           "type": "line_item_property",
           "settings": {
@@ -365,16 +375,6 @@
             "type": "text",
             "required": false,
             "allow_long_text": false
-          }
-        },
-        "collapsible_text_E6xMtK": {
-          "type": "collapsible_text",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "title": "💡 Idées de gravure",
-            "content": "<p><strong>Initiales du couple (A+B, A ♡ B)</strong><br/>Simple, intemporel, puissant.<br/><br/><strong>Noms (Julie / David)</strong><br/>Une déclaration gravée pour toujours.<br/><br/><strong>Date spéciale (01/05/2014)</strong><br/>Votre rencontre, votre mariage, votre moment.<br/><br/><strong>Chiffres romains (V.XVI.MMXX)</strong><br/>Élégance classique et sophistiquée.<br/><br/><strong>Citations romantiques :</strong><br/>- Pour toujours / et à jamais<br/>- You & Me / Forever<br/>- Je vous aime / Pour toujours<br/><br/>Chaque citation, une promesse gravée, capture l'éternité de vos sentiments. Choisissez celles qui résonnent le plus avec votre histoire.<br/><br/><strong>Symboles (♥❤♡✿❀✽★✯☆☘☾∞)</strong><br/>Exprimez l'inexprimable avec des symboles : cœur, étoile, fleur ou infini, ajoutant une couche d'émotion à votre bijou.<br/><br/>⚠️ Veuillez sélectionner uniquement les symboles proposés pour assurer une gravure sans erreur.<br/><br/>⚠️ Plus votre message est court, plus la gravure sera lisible et soignée. Pour un résultat optimal, misez sur la simplicité.<br/><br/></p>",
-            "page": ""
           }
         },
         "buy_buttons_LgztLR": {
@@ -414,9 +414,9 @@
         "text_gf99Ta",
         "liquid_9gHiLK",
         "variant_picker_XkHPwh",
+        "collapsible_text_E6xMtK",
         "line_item_property_3EQCLQ",
         "line_item_property_HB9FGi",
-        "collapsible_text_E6xMtK",
         "buy_buttons_LgztLR",
         "liquid_FPMx4r",
         "essential_countdown_timer_app_block_FwawXQ",
