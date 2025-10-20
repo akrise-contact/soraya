@@ -373,7 +373,7 @@
             "icon": "none",
             "icon_width": 20,
             "title": "💡 Idées de gravure",
-            "content": "<p><strong>Initiales du couple (A+B, A ♡ B)</strong><br/>Simple, intemporel, puissant.<br/><br/><strong>Noms (Julie / David)</strong><br/>Une déclaration gravée pour toujours.<br/><br/><strong>Date spéciale (01/05/2014)</strong><br/>Votre rencontre, votre mariage, votre moment.<br/><br/><strong>Chiffres romains (V.XVI.MMXX)</strong><br/>Élégance classique et sophistiquée.<br/><br/><strong>Citations romantiques :</strong><br/>- Pour toujours / et à jamais<br/>- You & Me / Forever<br/>- Je vous aime / Pour toujours<br/><br/>Chaque citation, une promesse gravée, capture l'éternité de vos sentiments. Choisissez celles qui résonnent le plus avec votre histoire.<br/><br/><strong>Symboles (♥❤♡✿❀✽★✯☆☘☾∞)</strong><br/>Exprimez l'inexprimable avec des symboles : cœur, étoile, fleur ou infini, ajoutant une couche d'émotion à votre bijou.<br/>⚠️ Veuillez choisir parmi les symboles énumérés ci-dessus afin d'éviter les erreurs de synchronisation avec nos outils de gravure.</p><p>⚠️ Plus le texte que vous souhaitez graver est long, plus il peut être difficile de maintenir une bonne visibilité de la gravure. En optant pour une gravure concise, vous vous assurez que chaque lettre reste claire et lisible sur votre bijou.</p>",
+            "content": "<p><strong>Initiales du couple (A+B, A ♡ B)</strong><br/>Simple, intemporel, puissant.<br/><br/><strong>Noms (Julie / David)</strong><br/>Une déclaration gravée pour toujours.<br/><br/><strong>Date spéciale (01/05/2014)</strong><br/>Votre rencontre, votre mariage, votre moment.<br/><br/><strong>Chiffres romains (V.XVI.MMXX)</strong><br/>Élégance classique et sophistiquée.<br/><br/><strong>Citations romantiques :</strong><br/>- Pour toujours / et à jamais<br/>- You & Me / Forever<br/>- Je vous aime / Pour toujours<br/><br/>Chaque citation, une promesse gravée, capture l'éternité de vos sentiments. Choisissez celles qui résonnent le plus avec votre histoire.<br/><br/><strong>Symboles (♥❤♡✿❀✽★✯☆☘☾∞)</strong><br/>Exprimez l'inexprimable avec des symboles : cœur, étoile, fleur ou infini, ajoutant une couche d'émotion à votre bijou.<br/><br/>⚠️ Veuillez sélectionner uniquement les symboles proposés pour assurer une gravure sans erreur.<br/><br/>⚠️ Plus votre message est court, plus la gravure sera lisible et soignée. Pour un résultat optimal, misez sur la simplicité.<br/><br/></p>",
             "page": ""
           }
         },
@@ -733,25 +733,25 @@
     "rich_text_496Ycb": {
       "type": "rich-text",
       "blocks": {
-        "subheading_YNCimU": {
-          "type": "subheading",
-          "settings": {
-            "text": "Elles ont adoré"
-          }
-        },
         "heading_kR4P4n": {
           "type": "heading",
           "settings": {
-            "text": "Pourquoi pas elle ?",
+            "text": "ELLES L'ONT ADORÉES",
             "heading_tag": "h1",
             "text_color": "#800020",
             "gradient": ""
           }
+        },
+        "subheading_YNCimU": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
         }
       },
       "block_order": [
-        "subheading_YNCimU",
-        "heading_kR4P4n"
+        "heading_kR4P4n",
+        "subheading_YNCimU"
       ],
       "name": "Rich text",
       "settings": {
