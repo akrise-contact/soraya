@@ -365,7 +365,8 @@
             "label": "Gravure sur le cœur droit",
             "type": "text",
             "required": false,
-            "allow_long_text": false
+            "allow_long_text": false,
+            "max_length": 10
           }
         },
         "line_item_property_HB9FGi": {
@@ -374,7 +375,8 @@
             "label": "Gravure sur le cœur gauche",
             "type": "text",
             "required": false,
-            "allow_long_text": false
+            "allow_long_text": false,
+            "max_length": 10
           }
         },
         "buy_buttons_LgztLR": {
