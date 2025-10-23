@@ -531,6 +531,32 @@
         "heading_gradient": ""
       }
     },
+    "rich_text_WzXYat": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_y8krPg": {
+          "type": "heading",
+          "settings": {
+            "text": "ELLES L'ONT ADORÉES !",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_y8krPg"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "1761231111ad2a4f2f": {
       "type": "apps",
       "blocks": {
@@ -635,6 +661,7 @@
     "multi_column_EjQq4Y",
     "multi_column_rT6yeD",
     "image_link_blocks_qthT6T",
+    "rich_text_WzXYat",
     "1761231111ad2a4f2f",
     "faq_7ytpep"
   ]
