@@ -254,19 +254,6 @@
             "link_style": "link"
           }
         },
-        "item_weyrRT": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/0927.mp4",
-            "column_size": "4",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
         "item_j9cg3m": {
           "type": "item",
           "settings": {
@@ -280,8 +267,23 @@
             "link_style": "link"
           }
         },
+        "item_weyrRT": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "video": "shopify://files/videos/0927.mp4",
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
         "item_8g3q3z": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "video": "shopify://files/videos/0926(1).mp4",
             "column_size": "4",
@@ -298,8 +300,8 @@
         "item_8LPiWg",
         "item_xkgX9m",
         "item_Gr43H3",
-        "item_weyrRT",
         "item_j9cg3m",
+        "item_weyrRT",
         "item_8g3q3z"
       ],
       "name": "Multi-column",
