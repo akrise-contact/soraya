@@ -455,31 +455,38 @@
         "heading_gradient": ""
       }
     },
-    "faq_M3RYCd": {
+    "faq_7ytpep": {
       "type": "faq",
       "blocks": {
-        "item_RAJbke": {
+        "item_ngf99X": {
           "type": "item",
           "settings": {
             "title": "Que contient ma commande ?",
-            "content": "<ul><li>Un ours rose éternelle</li><li>Votre collier que vous avez personnalisé</li><li>Un sac Cadeau</li><li>Un carton protecteur</li></ul>"
+            "content": "<ul><li>Un ours rose éternelle</li><li>Votre collier que vous avez personnalisé</li><li>Un sac Cadeau</li><li>Un carton protecteur</li></ul><p><br/>Tout est inclus, rien à ajouter. C'est prêt à offrir.✨</p>"
           }
         },
-        "item_nyaJ4J": {
+        "item_pVWjbG": {
           "type": "item",
           "settings": {
             "title": "Le collier résiste t-il à l'eau ?",
-            "content": "<p>Oui bien sûr ! Nos bijoux sont en acier inoxydable, vous pouvez aller dans l'eau sans soucis !</p>"
+            "content": "<p>Oui, acier inoxydable 316L plaqué or 18k. Résistant à l'eau, la transpiration, et hypoallergénique.</p><p>Elle peut le porter tous les jours, même sous la douche (même si on recommande de l'enlever pour prolonger la durée de vie du plaqué or).</p>"
           }
         },
-        "item_Uyrf9H": {
+        "item_eicLT8": {
+          "type": "item",
+          "settings": {
+            "title": "Je peux offrir ça pour quelle occasion ?",
+            "content": "<p>Toutes occasion. Anniversaire, Saint-Valentin, Noël, fiançailles, \"juste parce que je t'aime\"... </p><p>Les meilleurs cadeaux n'ont pas besoin d'excuse. Ils arrivent quand tu y penses.❤️</p>"
+          }
+        },
+        "item_CTEYdm": {
           "type": "item",
           "settings": {
             "title": "Comment faire si le bijou est arrivé endommagé ?",
             "content": "<p>Si le bijou a été endommagé au cours de la livraison, nous vous renvoyons le même à nos frais !</p>"
           }
         },
-        "item_hEyLbi": {
+        "item_ranF8z": {
           "type": "item",
           "settings": {
             "title": "Si jamais je n'aime pas comment faire ?",
@@ -488,10 +495,11 @@
         }
       },
       "block_order": [
-        "item_RAJbke",
-        "item_nyaJ4J",
-        "item_Uyrf9H",
-        "item_hEyLbi"
+        "item_ngf99X",
+        "item_pVWjbG",
+        "item_eicLT8",
+        "item_CTEYdm",
+        "item_ranF8z"
       ],
       "name": "FAQ",
       "settings": {
@@ -511,7 +519,7 @@
         "heading_color": "",
         "heading_gradient": "",
         "button_background": "",
-        "button_text_color": "#ffffff",
+        "button_text_color": "#1a1a1a",
         "accordion_background": "#dfdbdc",
         "accordion_text_color": ""
       }
@@ -524,7 +532,7 @@
           "settings": {
             "only_photos": false,
             "aggregated": false,
-            "limit": 20,
+            "limit": 6,
             "hide_thumbnails": false,
             "maxwidth": 1080,
             "is_sample": true
@@ -550,7 +558,7 @@
     "multi_column_EjQq4Y",
     "multi_column_rT6yeD",
     "image_link_blocks_qthT6T",
-    "faq_M3RYCd",
+    "faq_7ytpep",
     "1761231111ad2a4f2f"
   ]
 }
