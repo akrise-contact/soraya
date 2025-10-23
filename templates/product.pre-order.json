@@ -130,23 +130,6 @@
         "input_text_color": ""
       }
     },
-    "image_with_text_overlay_YWn967": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/LIVRAISON_GRATUITE_1.png",
-        "mobile_image": "shopify://shop_images/LIVRAISON_GRATUITE_1.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
     "tabs_exFE47": {
       "type": "tabs",
       "blocks": {
@@ -184,48 +167,6 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": ""
-      }
-    },
-    "rich_text_T6whBC": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_QD7Mzj": {
-          "type": "heading",
-          "settings": {
-            "text": "Offrez l'inoubliable",
-            "heading_tag": "h2",
-            "text_color": "#800020",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_QD7Mzj"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "image_with_text_overlay_6rr8DL": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/geger.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
       }
     },
     "multi_column_EjQq4Y": {
@@ -326,6 +267,68 @@
         "text_alignment": "center",
         "subheading": "",
         "title": "Elles l'adorent ✨",
+        "content": "",
+        "background": "#800020",
+        "background_gradient": "",
+        "text_color": "#ffffff"
+      }
+    },
+    "multi_column_rT6yeD": {
+      "type": "multi-column",
+      "blocks": {
+        "item_JfTQ4R": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/98080938eaeb40bc835ee7dc596148ff.HD-1080p-4.8Mbps-35710129 (1).mp4",
+            "column_size": "3",
+            "title": "Une Surprise Sentimentale",
+            "heading_tag": "h4",
+            "content": "<p>Imaginez sa réaction lorsque qu'elle tournera la manivelle pour révéler le collier personnalisé caché derrière la rose.... ♥</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_UXB3Kd": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Light_Pink_and_Red_bear_rose.jpg",
+            "column_size": "3",
+            "title": "Symbole Éternel d'Amour",
+            "heading_tag": "h4",
+            "content": "<p>Notre rose éternelle restera belle toute votre vie, tout comme l'amour que vous portez à l'être cher. Un cadeau qui traverse le temps et ne perd jamais de sa magie.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_NKd3C6": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/3_collier_3_gravures.jpg",
+            "column_size": "3",
+            "title": "Construit pour durer",
+            "heading_tag": "h4",
+            "content": "<p>Fabriqué en acier inoxydable 316L, le collier est garanti pour la vie.</p><p>Hypoallergénique, sans plomb ni nickel.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_JfTQ4R",
+        "item_UXB3Kd",
+        "item_NKd3C6"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "",
         "content": "",
         "background": "#800020",
         "background_gradient": "",
@@ -543,11 +546,9 @@
   },
   "order": [
     "main",
-    "image_with_text_overlay_YWn967",
     "tabs_exFE47",
-    "rich_text_T6whBC",
-    "image_with_text_overlay_6rr8DL",
     "multi_column_EjQq4Y",
+    "multi_column_rT6yeD",
     "multi_column_R3NYni",
     "multiple_images_with_text_JmidDm",
     "faq_M3RYCd"
