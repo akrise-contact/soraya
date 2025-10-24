@@ -110,7 +110,7 @@ NOTE TO DEVELOPERS: welcome to Impact theme! We hope that you will enjoy editing
   document
     .querySelectorAll('.globo-swatch-product-detail .swatch--gl .select-option input[type="radio"]')
     .forEach(input => {
-      input.addEventListener('change', evt => {
+      input.addEventListener('click', evt => {
         const name = evt.target.name;
         const groupInputs = document.querySelectorAll(
           `.globo-swatch-product-detail .swatch--gl .select-option input[name="${name}"]`
