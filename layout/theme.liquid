@@ -107,23 +107,25 @@ NOTE TO DEVELOPERS: welcome to Impact theme! We hope that you will enjoy editing
 
     <script>
       window.addEventListener('Globo.swatch.loaded', function () {
-  document
-    .querySelectorAll('.globo-swatch-product-detail .swatch--gl .select-option input[type="radio"]')
-    .forEach(input => {
-      input.addEventListener('click', evt => {
-        const name = evt.target.name;
-        const groupInputs = document.querySelectorAll(
-          `.globo-swatch-product-detail .swatch--gl .select-option input[name="${name}"]`
-        );
+        document
+          .querySelectorAll('.globo-swatch-product-detail .swatch--gl .select-option input[type="radio"]')
+          .forEach(input => {
+            input.addEventListener('change', evt => {
+              const name = evt.target.name;
+              const groupInputs = document.querySelectorAll(
+                `.globo-swatch-product-detail .swatch--gl .select-option input[name="${name}"]`
+              );
 
-        groupInputs.forEach(i => {
-          i.checked = false;
-        });
+              groupInputs.forEach(i => {
+                i.checked = false;
+                i.classList.remove('checked');
+              });
 
-        evt.target.checked = true;
+              evt.target.checked = true;
+              evt.target.classList.add('checked');
+            });
+          });
       });
-    });
-});
 
     </script>
   </body>
