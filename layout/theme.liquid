@@ -104,5 +104,27 @@ NOTE TO DEVELOPERS: welcome to Impact theme! We hope that you will enjoy editing
         {%- sections 'footer-group' -%}
       {%- endif -%}
     </main>
+
+    <script>
+      window.addEventListener('Globo.swatch.loaded', function () {
+  document
+    .querySelectorAll('.globo-swatch-product-detail .swatch--gl .select-option input[type="radio"]')
+    .forEach(input => {
+      input.addEventListener('change', evt => {
+        const name = evt.target.name;
+        const groupInputs = document.querySelectorAll(
+          `.globo-swatch-product-detail .swatch--gl .select-option input[name="${name}"]`
+        );
+
+        groupInputs.forEach(i => {
+          i.checked = false;
+        });
+
+        evt.target.checked = true;
+      });
+    });
+});
+
+    </script>
   </body>
 </html>
